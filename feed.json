@@ -1,0 +1,850 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-03T15:56:21.672Z",
+  "events": [
+    {
+      "id": "al3-hat-rally-2026-10-06",
+      "title": "American Legion Post 3 Hat Rally",
+      "orgId": "american-legion-post-3",
+      "orgName": "James F. Daniel, Jr. American Legion Post 3",
+      "date": "2026-10-06",
+      "time": "11:30 AM",
+      "location": "Palmetto Fine Foods, 1209 Laurens Road, Greenville, SC 29607",
+      "description": "Pay-your-own-way lunch fellowship. Wear your Legion cover or shirt and share a meal with Legionnaires and potential members. Listed on the Post 3 events calendar.",
+      "url": "https://talpost3greenvillesc.org/site/eventscalendar",
+      "region": "greenville"
+    },
+    {
+      "id": "uws-unmuted-2026-10-06",
+      "title": "UNMUTED — Women First Responders Peer Group (recurring)",
+      "orgId": "upstate-warrior",
+      "orgName": "Upstate Warrior Solution",
+      "date": "2026-10-06",
+      "time": "Recurring: 1st & 2nd Tuesday · 6:00 PM – 8:00 PM",
+      "location": "Tri-county area (RSVP required for location)",
+      "description": "Peer-led space for women serving as EMS, crime scene, dispatch, fire, or law enforcement. Confidential backup — no ranks, no judgment. RSVP for location details via UWS (lluna@uws.us).",
+      "url": "https://upstatewarriorsolution.org/training-support/",
+      "region": "greenville",
+      "isRecurring": true
+    },
+    {
+      "id": "nami-vet-connection-2026-10-07",
+      "title": "Veteran’s Connection Support Group",
+      "orgId": "nami-greenville",
+      "orgName": "NAMI Greenville",
+      "date": "2026-10-07",
+      "time": "9:30 AM – 11:00 AM",
+      "location": "NAMI Greenville Office, 130 Industrial Drive Suite A, Greenville, SC 29607",
+      "description": "Peer support for veterans. Meets first and third Wednesdays, 9:30–11:00 AM. Confirm any holiday changes on the NAMI Greenville calendar.",
+      "url": "https://namigreenvillesc.org/event/veterans-connection-support-group-2/2026-10-07/",
+      "region": "greenville",
+      "isRecurring": true
+    },
+    {
+      "id": "vhv-evening-2026-10-08",
+      "title": "Vets Helping Vets — Monthly Evening Potluck",
+      "orgId": "vets-helping-vets",
+      "orgName": "Vets Helping Vets Greenville",
+      "date": "2026-10-08",
+      "time": "6:30 PM – 8:00 PM",
+      "location": "Elks Lodge, 7700 Pelham Rd, Greenville, SC 29615",
+      "description": "Monthly evening potluck on the second Thursday of each month. Open fellowship for the local veteran community.",
+      "url": "https://vhvsc.org/event/weekly-meeting/2026-10-08/",
+      "region": "greenville",
+      "isRecurring": true
+    },
+    {
+      "id": "brushy-rifle-hunt-2026-10-15",
+      "title": "ABOM Rifle Deer Hunt",
+      "orgId": "brushy-mountain",
+      "orgName": "Brushy Mountain Adventure Basecamp",
+      "date": "2026-10-15",
+      "time": "Multi-day · Oct 15–18, 2026 (apply for details)",
+      "location": "680 Brushy Mountain Rd, Mountain Rest, SC 29664 (Oconee)",
+      "description": "Adventure Basecamp rifle deer hunt for veterans and men. Free outdoor retreat programming — apply through Brushy Mountain for eligibility and logistics.",
+      "url": "https://www.brushymountain.co/events/",
+      "region": "oconee"
+    },
+    {
+      "id": "vhv-weekly-2026-10-15",
+      "title": "Vets Helping Vets — Weekly Morning Meeting (recurring)",
+      "orgId": "vets-helping-vets",
+      "orgName": "Vets Helping Vets Greenville",
+      "date": "2026-10-15",
+      "time": "Recurring: Thursdays · 10:00 AM – 11:30 AM",
+      "location": "Elks Lodge, 7700 Pelham Rd, Greenville, SC 29615",
+      "description": "Weekly Thursday morning peer meetup (second Thursday is usually the evening potluck instead). Check the VHV events calendar for holiday cancellations.",
+      "url": "https://vhvsc.org/events/",
+      "region": "greenville",
+      "isRecurring": true
+    },
+    {
+      "id": "al3-post-meeting-2026-10-20",
+      "title": "American Legion Post 3 — Post Meeting",
+      "orgId": "american-legion-post-3",
+      "orgName": "James F. Daniel, Jr. American Legion Post 3",
+      "date": "2026-10-20",
+      "time": "7:00 PM (dinner optional at 6:00 PM)",
+      "location": "430 N. Main Street, Greenville, SC 29601",
+      "description": "Regular Post meeting at American Legion Post 3. Dinner before the meeting is optional. Confirm agenda on the Post calendar.",
+      "url": "https://talpost3greenvillesc.org/site/eventscalendar",
+      "region": "greenville"
+    },
+    {
+      "id": "nami-vet-connection-2026-10-21",
+      "title": "Veteran’s Connection Support Group",
+      "orgId": "nami-greenville",
+      "orgName": "NAMI Greenville",
+      "date": "2026-10-21",
+      "time": "9:30 AM – 11:00 AM",
+      "location": "NAMI Greenville Office, 130 Industrial Drive Suite A, Greenville, SC 29607",
+      "description": "Third-Wednesday instance of NAMI Greenville’s Veteran’s Connection peer group. First and third Wednesdays ongoing.",
+      "url": "https://namigreenvillesc.org/event/veterans-connection-support-group-2/2026-10-21/",
+      "region": "greenville",
+      "isRecurring": true
+    },
+    {
+      "id": "brushy-mc-ball-2026-11-07",
+      "title": "Marine Corps Ball",
+      "orgId": "brushy-mountain",
+      "orgName": "Brushy Mountain Adventure Basecamp",
+      "date": "2026-11-07",
+      "time": "See application page for time & details",
+      "location": "Mountain Rest / Oconee County, SC (confirm via Brushy Mountain)",
+      "description": "Listed on Brushy Mountain’s 2026 fall/winter schedule as the November 7 Marine Corps Ball. Apply or contact the org for time, dress, and seating — details are not fully published on the public schedule page.",
+      "url": "https://www.brushymountain.co/apply/",
+      "region": "oconee"
+    },
+    {
+      "id": "upstate-salute-2026-11-08",
+      "title": "SC Veterans Upstate Salute",
+      "orgId": "upstate-salute",
+      "orgName": "Upstate Veterans Alliance / Greenville Drive",
+      "date": "2026-11-08",
+      "time": "Gates 2:00 PM · Military programming ~2:30 PM · Concert 4:00 PM",
+      "location": "Fluor Field at the West End, Greenville, SC",
+      "description": "Family-friendly afternoon honoring veterans and first responders — flyover, military programming, local veteran org displays, and a concert headlined by Dylan Marlowe. Founded by the Upstate Veterans Alliance (GE Vernova, Prisma Health, Michelin, Greenville Drive).",
+      "url": "https://upstatesalute.com/",
+      "region": "greenville"
+    },
+    {
+      "id": "brushy-rifle-hunt-2026-11-12",
+      "title": "ABOM Rifle Deer Hunt",
+      "orgId": "brushy-mountain",
+      "orgName": "Brushy Mountain Adventure Basecamp",
+      "date": "2026-11-12",
+      "time": "Multi-day · Nov 12–15, 2026 (apply for details)",
+      "location": "680 Brushy Mountain Rd, Mountain Rest, SC 29664 (Oconee)",
+      "description": "November Adventure Basecamp rifle deer hunt. Apply through Brushy Mountain for eligibility, gear notes, and arrival times.",
+      "url": "https://www.brushymountain.co/events/",
+      "region": "oconee"
+    },
+    {
+      "id": "vhv-evening-2026-11-12",
+      "title": "Vets Helping Vets — Monthly Evening Potluck",
+      "orgId": "vets-helping-vets",
+      "orgName": "Vets Helping Vets Greenville",
+      "date": "2026-11-12",
+      "time": "6:30 PM – 8:00 PM",
+      "location": "Elks Lodge, 7700 Pelham Rd, Greenville, SC 29615",
+      "description": "November second-Thursday evening potluck with Vets Helping Vets Greenville.",
+      "url": "https://vhvsc.org/events/",
+      "region": "greenville",
+      "isRecurring": true
+    },
+    {
+      "id": "nar-coffee-2026-11-13",
+      "title": "Coffee with Veterans and First Responders",
+      "orgId": "north-american-rescue",
+      "orgName": "North American Rescue (host)",
+      "date": "2026-11-13",
+      "time": "9:00 AM – 12:00 PM",
+      "location": "The Marriott Greenville, One Parkway East, Greenville, SC 29615",
+      "description": "Free networking coffee for veterans and first responders exploring careers. Hosted with HR leaders including Anna Harris (North American Rescue) and Rick Silva (Interim HealthCare). Free tickets for veterans seeking employment.",
+      "url": "https://allevents.in/greenville/coffee-with-veterans-and-first-responders-november-2026/100001989101592408",
+      "region": "greenville"
+    },
+    {
+      "id": "brushy-father-son-2026-12-03",
+      "title": "2nd Annual Father/Son Deer Hunt",
+      "orgId": "brushy-mountain",
+      "orgName": "Brushy Mountain Adventure Basecamp",
+      "date": "2026-12-03",
+      "time": "Multi-day · Dec 3–6, 2026 (daughters welcome per apply page)",
+      "location": "680 Brushy Mountain Rd, Mountain Rest, SC 29664 (Oconee)",
+      "description": "Father/son deer hunt on Brushy Mountain’s 2026 schedule (daughters welcome per the application form). Apply for details.",
+      "url": "https://www.brushymountain.co/apply/",
+      "region": "oconee"
+    }
+  ],
+  "organizations": [
+    {
+      "id": "semper-fi-barn",
+      "name": "Semper Fi Barn",
+      "blurb": "A quiet retreat near Six Mile for veterans and families — fellowship, remembrance, and peer support in a barn setting.",
+      "region": "Six Mile / Central · Pickens County, SC",
+      "regions": [
+        "pickens"
+      ],
+      "url": "https://www.semperfibarn.org/",
+      "group": "local"
+    },
+    {
+      "id": "upstate-warrior",
+      "name": "Upstate Warrior Solution",
+      "blurb": "Case coordination for veterans, first responders, and families across Greenville, Anderson, Pickens, Spartanburg, and Oconee.",
+      "region": "Upstate South Carolina",
+      "regions": [
+        "greenville",
+        "anderson",
+        "pickens",
+        "oconee",
+        "spartanburg"
+      ],
+      "url": "https://upstatewarriorsolution.org/",
+      "group": "local"
+    },
+    {
+      "id": "eden-farms",
+      "name": "Happy Hooves at Eden Farms",
+      "blurb": "Therapeutic equestrian programs in Marietta — horse-centered support for mind, body, and spirit in the Upstate.",
+      "region": "Marietta · Greenville County, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://www.happyhoovessc.com/",
+      "group": "local"
+    },
+    {
+      "id": "vantage-point",
+      "name": "Vantage Point Foundation",
+      "blurb": "Post-9/11 transition support statewide, including the Veteran Leadership Course and community leads in the Upstate.",
+      "region": "South Carolina (Upstate presence)",
+      "regions": [
+        "statewide",
+        "greenville",
+        "pickens"
+      ],
+      "url": "https://vantagepointfoundation.org/",
+      "group": "local"
+    },
+    {
+      "id": "brushy-mountain",
+      "name": "Brushy Mountain",
+      "blurb": "Veteran-led adventure retreat near Westminster — fellowship, purpose, and outdoor breakthrough experiences for veterans and men.",
+      "region": "Westminster · Oconee County, SC",
+      "regions": [
+        "oconee"
+      ],
+      "url": "https://www.brushymountain.co/",
+      "group": "local"
+    },
+    {
+      "id": "veterans-last-patrol",
+      "name": "Veteran's Last Patrol",
+      "blurb": "Befriends, honors, and supports veterans in hospice — companion visits and dignity on the last patrol.",
+      "region": "National with local volunteers",
+      "regions": [
+        "statewide"
+      ],
+      "url": "https://www.veteranlastpatrol.org/",
+      "group": "local"
+    },
+    {
+      "id": "greenville-county-va",
+      "name": "Greenville County Veterans Affairs",
+      "blurb": "County Veterans Affairs office — accredited claims help for veterans and families. Check hours; some days are appointment-only.",
+      "region": "Greenville County Square, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://www.greenvillecounty.org/VeteranAffairs/",
+      "group": "local"
+    },
+    {
+      "id": "anderson-county-va",
+      "name": "Anderson County Veterans Affairs",
+      "blurb": "VA-accredited representation for veterans, survivors, and dependents — call to schedule an appointment.",
+      "region": "Anderson, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://www.andersoncountysc.org/departments-a-z/veterans-affairs/",
+      "group": "local"
+    },
+    {
+      "id": "scdva-county-directory",
+      "name": "SC County Veterans' Affairs Directory",
+      "blurb": "Official SCDVA list of County Veterans Affairs Officers — use for Pickens, Oconee, Spartanburg, and every SC county contact.",
+      "region": "Statewide directory",
+      "regions": [
+        "statewide",
+        "pickens",
+        "oconee",
+        "greenville",
+        "anderson",
+        "spartanburg"
+      ],
+      "url": "https://scdva.sc.gov/county-veterans-affairs-offices",
+      "group": "local"
+    },
+    {
+      "id": "american-legion-post-3",
+      "name": "American Legion Post 3 — James F. Daniel, Jr.",
+      "blurb": "Greenville’s historic Post 3 — meetings 3rd Tuesday 7 PM, military museum open weekends, Boys State, scholarships, and community service.",
+      "region": "Greenville, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://www.talpost3greenvillesc.org/",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "430 N Main St, Greenville, SC 29601",
+      "phone": "(864) 271-2000"
+    },
+    {
+      "id": "american-legion-post-11",
+      "name": "American Legion Post 11 — Pickens",
+      "blurb": "Pickens Post meetings last Tuesday (meal 6:30 PM, meeting 7:00 PM). Hall rental and Boys State support.",
+      "region": "Pickens, SC",
+      "regions": [
+        "pickens"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045001100L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "185 Hagood St, Pickens, SC 29671"
+    },
+    {
+      "id": "american-legion-post-14",
+      "name": "American Legion Post 14 — W. A. Hudgens",
+      "blurb": "Anderson’s W. A. Hudgens Post — meetings 1st Monday 7 PM. Auxiliary, SAL, hall rental, and long-running veteran service programs.",
+      "region": "Anderson, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045001400L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "1301 E Greenville St, Anderson, SC 29621"
+    },
+    {
+      "id": "american-legion-post-28",
+      "name": "American Legion Post 28 — Spartanburg",
+      "blurb": "Spartanburg Post at Duncan Park — meetings 1st Saturday 9:30 AM. Baseball, Boys State, Legion Riders, canteen, and hall rental.",
+      "region": "Spartanburg, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "http://www.al28sc.org/",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "94 W Park Dr, Spartanburg, SC 29306",
+      "phone": "(864) 253-0376"
+    },
+    {
+      "id": "american-legion-post-33",
+      "name": "American Legion Post 33 — Woodruff",
+      "blurb": "Woodruff Post meetings 2nd Tuesday 6 PM. Auxiliary, Legion Riders, SAL, canteen, and hall rental.",
+      "region": "Woodruff, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045003300L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "6998 Hwy 101, Woodruff, SC 29388",
+      "phone": "(864) 476-7818"
+    },
+    {
+      "id": "american-legion-post-45",
+      "name": "American Legion Post 45 — Inman",
+      "blurb": "Inman Post breakfast meetings 1st Saturday (~8:30–9 AM). Active Auxiliary, baseball, Boys State, and funeral honors.",
+      "region": "Inman, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "https://americanlegionpost45inmansc.org/",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "44 Bishop St, Inman, SC 29349",
+      "phone": "(864) 320-3554"
+    },
+    {
+      "id": "american-legion-post-48",
+      "name": "American Legion Post 48 — Chesnee",
+      "blurb": "Chesnee Post meetings 2nd Thursday 7 PM. Sons of The American Legion and hall rental.",
+      "region": "Chesnee, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "http://www.americanlegionpost48chesnee.com",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "820 South Alabama Ave, Chesnee, SC 29323",
+      "phone": "(904) 612-2509"
+    },
+    {
+      "id": "american-legion-post-50",
+      "name": "American Legion Post 50 — Honea Path",
+      "blurb": "Honea Path Post meetings 1st Thursday 5 PM. Anderson County fellowship and community support.",
+      "region": "Honea Path, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045005000L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "21 Sunset Dr, Honea Path, SC 29654"
+    },
+    {
+      "id": "american-legion-post-51",
+      "name": "American Legion Post 51 — Belton",
+      "blurb": "Belton Post meetings 1st Monday 6:30 PM (2nd Monday if holiday). Physical post home.",
+      "region": "Belton, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045005100L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "306 Campbell St, Belton, SC 29627",
+      "phone": "(864) 338-6210"
+    },
+    {
+      "id": "american-legion-post-52",
+      "name": "American Legion Post 52 — Easley",
+      "blurb": "Easley Post meetings 4th Tuesday 7 PM. Auxiliary, baseball, Boys State, color guard, and funeral services.",
+      "region": "Easley, SC",
+      "regions": [
+        "pickens"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045005200L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "310 Pope Field Rd, Easley, SC 29642",
+      "phone": "(864) 442-6120"
+    },
+    {
+      "id": "american-legion-post-67",
+      "name": "American Legion Post 67 — Frank D. Callaham",
+      "blurb": "Liberty Post meetings 3rd Monday 7 PM at 115 Scout Circle. Auxiliary, Boys State, and shooting sports.",
+      "region": "Liberty, SC",
+      "regions": [
+        "pickens"
+      ],
+      "url": "https://www.facebook.com/americanlegionpost67libertysc",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "115 Scout Circle, Liberty, SC 29657",
+      "phone": "(864) 372-4398"
+    },
+    {
+      "id": "american-legion-post-107",
+      "name": "American Legion Post 107 — Westminster",
+      "blurb": "Westminster Post meetings last Thursday 6 PM. Auxiliary, Boys State, oratorical contest, and hall rental.",
+      "region": "Westminster, SC",
+      "regions": [
+        "oconee"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045010700L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "205 Lucky St, Westminster, SC 29693",
+      "phone": "(864) 723-3341"
+    },
+    {
+      "id": "american-legion-post-113",
+      "name": "American Legion Post 113 — Pendleton",
+      "blurb": "Pendleton Post meetings 2nd Monday 6 PM. Hall rental and physical post home near Clemson.",
+      "region": "Pendleton, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045011300L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "304 Lebanon Rd, Pendleton, SC 29670",
+      "phone": "(864) 617-6736"
+    },
+    {
+      "id": "american-legion-post-115",
+      "name": "American Legion Post 115 — Greer",
+      "blurb": "Greer Post meetings last Tuesday 7 PM. Local fellowship and community programs.",
+      "region": "Greer, SC",
+      "regions": [
+        "greenville",
+        "spartanburg"
+      ],
+      "url": "http://www.greerpost115.org",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "421 Snow St, Greer, SC 29651",
+      "phone": "(864) 451-1780"
+    },
+    {
+      "id": "american-legion-post-120",
+      "name": "American Legion Post 120 — Seneca",
+      "blurb": "Seneca Post meetings 1st Monday 7 PM (2nd Monday if holiday). Sons of The American Legion and hall rental.",
+      "region": "Seneca, SC",
+      "regions": [
+        "oconee"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045012000L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "575 N Fairplay St, Seneca, SC 29678",
+      "phone": "(864) 539-6360"
+    },
+    {
+      "id": "american-legion-post-121",
+      "name": "American Legion Post 121 — Williamston",
+      "blurb": "Williamston Post meetings 3rd Tuesday 6 PM. Auxiliary, Boys State, Legion Riders, SAL, canteen, and hall rental.",
+      "region": "Williamston, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045012100L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "1610 Anderson Dr, Williamston, SC 29697",
+      "phone": "(864) 847-4242"
+    },
+    {
+      "id": "american-legion-post-124",
+      "name": "American Legion Post 124 — Walhalla",
+      "blurb": "Walhalla Post meetings 2nd Monday (meal 6 PM, business 7 PM). Active community post with canteen, funeral services, and hall rental.",
+      "region": "Walhalla, SC",
+      "regions": [
+        "oconee"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045012400L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "319 Kenneth St, Walhalla, SC 29691",
+      "phone": "(864) 638-4231"
+    },
+    {
+      "id": "american-legion-post-125",
+      "name": "American Legion Post 125 — Cowpens",
+      "blurb": "Cowpens Post meetings 3rd Saturday 10 AM. Physical post home in Spartanburg County.",
+      "region": "Cowpens, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045012500L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "120 Palmetto St, Cowpens, SC 29330",
+      "phone": "(864) 680-3004"
+    },
+    {
+      "id": "american-legion-post-151",
+      "name": "American Legion Post 151 — Central",
+      "blurb": "Central / Norris area Post meetings 3rd Sunday 3 PM. Auxiliary, Boys State, Legion Riders, SAL, canteen, and hall rental. Follow Facebook for current location details.",
+      "region": "Central / Norris, SC",
+      "regions": [
+        "pickens"
+      ],
+      "url": "https://www.facebook.com/profile.php?id=61569015511964",
+      "group": "posts",
+      "postKind": "legion",
+      "phone": "(864) 639-2950"
+    },
+    {
+      "id": "american-legion-post-163",
+      "name": "American Legion Post 163 — Salem",
+      "blurb": "Salem Post meetings 2nd Tuesday 7 PM at 255 Whitewater Falls Rd, Salem, SC.",
+      "region": "Salem, SC",
+      "regions": [
+        "oconee"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045016300L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "350 Price Dr, Salem, SC 29676",
+      "phone": "(864) 710-2036"
+    },
+    {
+      "id": "american-legion-post-184",
+      "name": "American Legion Post 184 — Anderson",
+      "blurb": "Anderson Post meetings 1st Tuesday 6 PM. Second Anderson-area Legion home serving local veterans.",
+      "region": "Anderson, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045018400L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "5523 Highway 187, Anderson, SC 29625"
+    },
+    {
+      "id": "american-legion-post-200",
+      "name": "American Legion Post 200 — Boiling Springs",
+      "blurb": "Boiling Springs Post meetings 4th Monday 6:30 PM (held at Boiling Springs High School). Auxiliary, Legion Riders, and SAL.",
+      "region": "Boiling Springs, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "http://www.sclegionpost200.org",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "2251 Old Furnace Rd, Boiling Springs, SC 29316",
+      "phone": "(864) 202-8309"
+    },
+    {
+      "id": "american-legion-post-214",
+      "name": "American Legion Post 214 — Major Rudolf Anderson, Jr.",
+      "blurb": "Taylors Post named for Maj. Rudolf Anderson, Jr., with the Cecil D. Buchanan Museum of Military History. Meetings 3rd Tuesday 6 PM.",
+      "region": "Taylors, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://al-post214.com/",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "3110 Wade Hampton Blvd, Taylors, SC 29687",
+      "phone": "(864) 565-5601"
+    },
+    {
+      "id": "american-legion-post-270",
+      "name": "American Legion Post 270 — Woodruff",
+      "blurb": "Second Woodruff-area Legion Post. Contact for meeting details; public listing shows a Woodruff mailing address.",
+      "region": "Woodruff, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "https://mylegion.org/personifyebusiness/Post-Detail?%40IP_IDENTITY_MCID=00045027000L&%40IP_IDENTITY_SCID=0",
+      "group": "posts",
+      "postKind": "legion",
+      "phone": "(864) 756-0907"
+    },
+    {
+      "id": "american-legion-post-271",
+      "name": "American Legion Post 271 — Mauldin",
+      "blurb": "Mauldin Post meetings 2nd Tuesday 6 PM. Community scholarships and local veteran aid; meets at Ray W. Hopkins Senior Center (203 Corn Rd, Greenville).",
+      "region": "Mauldin / Greenville, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://www.alpost271.org/",
+      "group": "posts",
+      "postKind": "legion",
+      "address": "203 Corn Rd, Greenville, SC 29607",
+      "phone": "(864) 230-6863"
+    },
+    {
+      "id": "vfw-post-1845",
+      "name": "VFW Post 1845 — Golden Strip Memorial",
+      "blurb": "Simpsonville VFW — meetings 2nd Monday 7 PM. Golden Strip fellowship and canteen events for overseas veterans.",
+      "region": "Simpsonville, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://vfwsc.org/di/vfw/v2/default.asp?pid=78788",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "121 Hedge St, Simpsonville, SC 29681",
+      "phone": "(864) 963-2934"
+    },
+    {
+      "id": "vfw-post-6089",
+      "name": "VFW Post 6089 — Rucker-Hall",
+      "blurb": "Anderson VFW — meetings 3rd Monday 6 PM. Follow Post 6089 Anderson SC on Facebook for events.",
+      "region": "Anderson, SC",
+      "regions": [
+        "anderson"
+      ],
+      "url": "https://vfwsc.org/di/vfw/v2/default.asp?pid=78788",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "2009 Scarborough Rd, Anderson, SC 29626",
+      "phone": "(864) 760-7912"
+    },
+    {
+      "id": "vfw-post-6734",
+      "name": "VFW Post 6734 — Capt. Charles F. Gandy Jr.",
+      "blurb": "Piedmont / Greenville County VFW — meetings 3rd Sunday 4 PM. Business hours Mondays 4–6 PM per post site.",
+      "region": "Piedmont, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://vfwpost6734.org/",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "18 Charles Gandy Way, Piedmont, SC 29673",
+      "phone": "(864) 373-9743"
+    },
+    {
+      "id": "vfw-post-6830",
+      "name": "VFW Post 6830 — Allison P. Rhodes",
+      "blurb": "Walhalla VFW — meetings 2nd Sunday 2 PM. Oconee County home for overseas veterans.",
+      "region": "Walhalla, SC",
+      "regions": [
+        "oconee"
+      ],
+      "url": "https://vfwsc.org/di/vfw/v2/default.asp?pid=78788",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "2415 Highlands Hwy, Walhalla, SC 29691",
+      "phone": "(864) 638-6063"
+    },
+    {
+      "id": "vfw-post-9273",
+      "name": "VFW Post 9273 — Donaldson Center",
+      "blurb": "Piedmont Donaldson Center VFW — meetings 4th Tuesday 7 PM. Canteen, Auxiliary, and community events; see Facebook for weekly hours.",
+      "region": "Piedmont, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://vfw9273.org/",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "112 Sterling Grove Rd, Piedmont, SC 29673",
+      "phone": "(864) 277-6900"
+    },
+    {
+      "id": "vfw-post-9539",
+      "name": "VFW Post 9539 — Spartanburg",
+      "blurb": "Spartanburg County VFW in Roebuck — District 4 host post. Open Wed–Sun (hours on post site); canteen and community programs.",
+      "region": "Roebuck / Spartanburg, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "https://vfw9539.org/",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "325 Carolina Drive Extension, Roebuck, SC 29376",
+      "phone": "(864) 585-5290"
+    },
+    {
+      "id": "vfw-post-10058",
+      "name": "VFW Post 10058 — Travelers Rest",
+      "blurb": "Travelers Rest VFW — meetings 3rd Monday 6:30 PM. North Greenville County post for overseas veterans.",
+      "region": "Travelers Rest, SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://vfwsc.org/di/vfw/v2/default.asp?pid=78788",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "1185 North Highway 25, Travelers Rest, SC 29690",
+      "phone": "(864) 834-5091"
+    },
+    {
+      "id": "vfw-post-10330",
+      "name": "VFW Post 10330 — Berea",
+      "blurb": "Berea / west Greenville VFW — meetings 3rd Sunday 3:30 PM at the Old Easley Highway post home.",
+      "region": "Greenville (Berea), SC",
+      "regions": [
+        "greenville"
+      ],
+      "url": "https://vfwsc.org/di/vfw/v2/default.asp?pid=78788",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "885 Old Easley Highway, Greenville, SC 29611",
+      "phone": "(864) 220-0300"
+    },
+    {
+      "id": "vfw-post-12207",
+      "name": "VFW Post 12207 — SC Foothills",
+      "blurb": "Boiling Springs VFW — SC Foothills Post & Auxiliary. See Facebook group for current events and meeting notes.",
+      "region": "Boiling Springs, SC",
+      "regions": [
+        "spartanburg"
+      ],
+      "url": "https://www.facebook.com/groups/330198538632709/",
+      "group": "posts",
+      "postKind": "vfw",
+      "address": "1850 Old Furnace Rd, Boiling Springs, SC 29316",
+      "phone": "(864) 529-7862"
+    },
+    {
+      "id": "scdva",
+      "name": "SC Department of Veterans' Affairs",
+      "blurb": "State benefits guidance, cemetery and home info, and the South Carolina Veteran Coalition “no-wrong-door” network.",
+      "region": "Columbia HQ · statewide",
+      "regions": [
+        "statewide"
+      ],
+      "url": "https://scdva.sc.gov/",
+      "group": "statewide"
+    },
+    {
+      "id": "sc-smart-start",
+      "name": "SC Smart Start",
+      "blurb": "Transition hub from SCDVA — employment, education, benefits, and county-level resources as you settle in SC.",
+      "region": "Statewide",
+      "regions": [
+        "statewide"
+      ],
+      "url": "https://scdvasmartstart.sc.gov/",
+      "group": "statewide"
+    },
+    {
+      "id": "sc-thrive",
+      "name": "SC Thrive",
+      "blurb": "Connects South Carolinians to crucial benefits and community supports — useful for veterans navigating civilian systems.",
+      "region": "Statewide",
+      "regions": [
+        "statewide"
+      ],
+      "url": "https://scthrive.org/",
+      "group": "statewide"
+    },
+    {
+      "id": "va-gov",
+      "name": "U.S. Department of Veterans Affairs",
+      "blurb": "Health care, disability, education, and home-loan benefits — start here for federal VA services.",
+      "region": "National",
+      "regions": [],
+      "url": "https://www.va.gov/",
+      "group": "national"
+    },
+    {
+      "id": "military-onesource",
+      "name": "Military OneSource",
+      "blurb": "24/7 confidential counseling, relocation, and transition tools for service members, veterans, and families.",
+      "region": "National",
+      "regions": [],
+      "url": "https://www.militaryonesource.mil/",
+      "group": "national"
+    },
+    {
+      "id": "iava",
+      "name": "Iraq and Afghanistan Veterans of America",
+      "blurb": "Advocacy and community for the post-9/11 generation — policy, peer connection, and member-driven campaigns.",
+      "region": "National",
+      "regions": [],
+      "url": "https://iava.org/",
+      "group": "national"
+    },
+    {
+      "id": "team-rubicon",
+      "name": "Team Rubicon",
+      "blurb": "Veteran-led disaster response — Greyshirts put military skills back to work serving communities in crisis.",
+      "region": "National",
+      "regions": [],
+      "url": "https://teamrubiconusa.org/",
+      "group": "national"
+    },
+    {
+      "id": "wwp",
+      "name": "Wounded Warrior Project",
+      "blurb": "Programs for post-9/11 wounded, ill, or injured veterans — mental health, peer support, benefits help, and more.",
+      "region": "National",
+      "regions": [],
+      "url": "https://www.woundedwarriorproject.org/",
+      "group": "national"
+    },
+    {
+      "id": "veterans-crisis-line",
+      "name": "Veterans Crisis Line",
+      "blurb": "Free, confidential support 24/7. Call 988 then press 1, text 838255, or chat online.",
+      "region": "National",
+      "regions": [],
+      "url": "https://www.veteranscrisisline.net/",
+      "group": "national"
+    }
+  ]
+}
