@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-03T15:56:21.672Z",
+  "generatedAt": "2026-10-04T04:06:05.134Z",
   "events": [
     {
       "id": "al3-hat-rally-2026-10-06",
@@ -52,6 +52,18 @@
       "url": "https://vhvsc.org/event/weekly-meeting/2026-10-08/",
       "region": "greenville",
       "isRecurring": true
+    },
+    {
+      "id": "nar-coffee-2026-10-09",
+      "title": "Coffee with Veterans and First Responders",
+      "orgId": "north-american-rescue",
+      "orgName": "North American Rescue (host)",
+      "date": "2026-10-09",
+      "time": "9:00 AM – 12:00 PM",
+      "location": "The Marriott Greenville, One Parkway East, Greenville, SC 29615",
+      "description": "Free networking coffee for veterans and first responders exploring careers. Hosted with HR leaders including Anna Harris (North American Rescue). Free tickets via Eventbrite for veterans seeking employment.",
+      "url": "https://www.eventbrite.com/e/coffee-with-veterans-and-first-responders-october-2026-tickets-1989101445970",
+      "region": "greenville"
     },
     {
       "id": "brushy-rifle-hunt-2026-10-15",
@@ -109,10 +121,10 @@
       "orgId": "brushy-mountain",
       "orgName": "Brushy Mountain Adventure Basecamp",
       "date": "2026-11-07",
-      "time": "See application page for time & details",
-      "location": "Mountain Rest / Oconee County, SC (confirm via Brushy Mountain)",
-      "description": "Listed on Brushy Mountain’s 2026 fall/winter schedule as the November 7 Marine Corps Ball. Apply or contact the org for time, dress, and seating — details are not fully published on the public schedule page.",
-      "url": "https://www.brushymountain.co/apply/",
+      "time": "6:00 PM",
+      "location": "Johio Farms, South Carolina (Oconee / foothills — confirm via Brushy Mountain)",
+      "description": "Brushy Mountain’s Marine Corps birthday ball for veterans, families, and friends — formal attire, relaxed welcome. Listed 6:00 PM Nov 7, 2026 at Johio Farms; register through Brushy Mountain.",
+      "url": "https://www.brushymountain.co/new-page-1/",
       "region": "oconee"
     },
     {
