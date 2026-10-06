@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T04:06:05.134Z",
+  "generatedAt": "2026-10-06T04:07:20.686Z",
   "events": [
     {
       "id": "al3-hat-rally-2026-10-06",
@@ -63,6 +63,18 @@
       "location": "The Marriott Greenville, One Parkway East, Greenville, SC 29615",
       "description": "Free networking coffee for veterans and first responders exploring careers. Hosted with HR leaders including Anna Harris (North American Rescue). Free tickets via Eventbrite for veterans seeking employment.",
       "url": "https://www.eventbrite.com/e/coffee-with-veterans-and-first-responders-october-2026-tickets-1989101445970",
+      "region": "greenville"
+    },
+    {
+      "id": "al3-coffee-muster-2026-10-10",
+      "title": "American Legion Post 3 Coffee Muster",
+      "orgId": "american-legion-post-3",
+      "orgName": "James F. Daniel, Jr. American Legion Post 3",
+      "date": "2026-10-10",
+      "time": "10:00 AM",
+      "location": "430 N. Main Street, Greenville, SC 29601",
+      "description": "Coffee, snacks, and fellowship with other veterans at Post 3. Open to all. Contact: Johnathon Bradley, vicecomscgvlpost3@gmail.com. Listed on the Post 3 events calendar.",
+      "url": "https://talpost3greenvillesc.org/site/eventscalendar",
       "region": "greenville"
     },
     {
