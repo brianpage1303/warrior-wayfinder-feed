@@ -1,32 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T04:07:20.686Z",
+  "generatedAt": "2026-10-07T04:07:50.471Z",
   "events": [
-    {
-      "id": "al3-hat-rally-2026-10-06",
-      "title": "American Legion Post 3 Hat Rally",
-      "orgId": "american-legion-post-3",
-      "orgName": "James F. Daniel, Jr. American Legion Post 3",
-      "date": "2026-10-06",
-      "time": "11:30 AM",
-      "location": "Palmetto Fine Foods, 1209 Laurens Road, Greenville, SC 29607",
-      "description": "Pay-your-own-way lunch fellowship. Wear your Legion cover or shirt and share a meal with Legionnaires and potential members. Listed on the Post 3 events calendar.",
-      "url": "https://talpost3greenvillesc.org/site/eventscalendar",
-      "region": "greenville"
-    },
-    {
-      "id": "uws-unmuted-2026-10-06",
-      "title": "UNMUTED — Women First Responders Peer Group (recurring)",
-      "orgId": "upstate-warrior",
-      "orgName": "Upstate Warrior Solution",
-      "date": "2026-10-06",
-      "time": "Recurring: 1st & 2nd Tuesday · 6:00 PM – 8:00 PM",
-      "location": "Tri-county area (RSVP required for location)",
-      "description": "Peer-led space for women serving as EMS, crime scene, dispatch, fire, or law enforcement. Confidential backup — no ranks, no judgment. RSVP for location details via UWS (lluna@uws.us).",
-      "url": "https://upstatewarriorsolution.org/training-support/",
-      "region": "greenville",
-      "isRecurring": true
-    },
     {
       "id": "nami-vet-connection-2026-10-07",
       "title": "Veteran’s Connection Support Group",
@@ -78,6 +53,31 @@
       "region": "greenville"
     },
     {
+      "id": "ala-pillow-party-2026-10-11",
+      "title": "American Legion Auxiliary Pillow Party",
+      "orgId": "american-legion-post-3",
+      "orgName": "James F. Daniel, Jr. American Legion Post 3",
+      "date": "2026-10-11",
+      "time": "2:03 PM – 5:00 PM",
+      "location": "430 N. Main Street, Greenville, SC 29601",
+      "description": "Help sew neck pillows for deploying troops with the American Legion Auxiliary at Post 3. All hands are welcome, and all supplies are provided. Contact: Beth Bryant, 941-258-5886. Listed on the Post 3 events calendar.",
+      "url": "https://talpost3greenvillesc.org/site/eventscalendar",
+      "region": "greenville"
+    },
+    {
+      "id": "uws-unmuted-2026-10-13",
+      "title": "UNMUTED — Women First Responders Peer Group (recurring)",
+      "orgId": "upstate-warrior",
+      "orgName": "Upstate Warrior Solution",
+      "date": "2026-10-13",
+      "time": "Recurring: 1st & 2nd Tuesday · 6:00 PM – 8:00 PM",
+      "location": "Tri-county area (RSVP required for location)",
+      "description": "Peer-led space for women serving as EMS, crime scene, dispatch, fire, or law enforcement. Confidential backup — no ranks, no judgment. RSVP for location details via UWS (lluna@uws.us).",
+      "url": "https://upstatewarriorsolution.org/training-support/",
+      "region": "greenville",
+      "isRecurring": true
+    },
+    {
       "id": "brushy-rifle-hunt-2026-10-15",
       "title": "ABOM Rifle Deer Hunt",
       "orgId": "brushy-mountain",
@@ -126,6 +126,18 @@
       "url": "https://namigreenvillesc.org/event/veterans-connection-support-group-2/2026-10-21/",
       "region": "greenville",
       "isRecurring": true
+    },
+    {
+      "id": "al3-coffee-muster-halloween-2026-10-31",
+      "title": "Post 3 Coffee Muster and Halloween Safety Class",
+      "orgId": "american-legion-post-3",
+      "orgName": "James F. Daniel, Jr. American Legion Post 3",
+      "date": "2026-10-31",
+      "time": "10:00 AM – 12:00 PM",
+      "location": "430 N. Main Street, Greenville, SC 29601",
+      "description": "Share a cup of coffee with fellow vets. Bring your children to learn about Halloween safety (costumes welcome) and practice trick-or-treating. Contact: 2nd Vice Cdr Johnathon Bradley, 864-775-2925. Listed on the Post 3 events calendar.",
+      "url": "https://talpost3greenvillesc.org/site/eventscalendar",
+      "region": "greenville"
     },
     {
       "id": "brushy-mc-ball-2026-11-07",
