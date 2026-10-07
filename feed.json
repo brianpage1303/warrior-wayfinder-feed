@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T04:07:50.471Z",
+  "generatedAt": "2026-10-07T19:04:46.067Z",
   "events": [
     {
       "id": "nami-vet-connection-2026-10-07",
@@ -285,6 +285,39 @@
       ],
       "url": "https://www.veteranlastpatrol.org/",
       "group": "local"
+    },
+    {
+      "id": "battle-buddies-carolinas",
+      "name": "Battle Buddies of the Carolinas",
+      "blurb": "Upstate nonprofit started in 2012 by a disabled Marine veteran and his wife. They raise and train service dogs (often golden retrievers) for veterans living with PTSD and TBI across the Carolinas.",
+      "region": "Greenville County, SC · serves the Carolinas",
+      "regions": [
+        "greenville",
+        "spartanburg",
+        "pickens",
+        "anderson",
+        "oconee",
+        "statewide"
+      ],
+      "url": "https://battlebuddiescarolinas.org/",
+      "group": "local",
+      "phone": "(864) 404-8888"
+    },
+    {
+      "id": "sd4v",
+      "name": "Service Dogs for Veterans (SD4V)",
+      "blurb": "Greenville program where veterans train their own service dog, often a shelter rescue, in weekly group classes over about eight months. For veterans with a verified PTSD, TBI, or MST diagnosis; donor scholarships cover 98% of the cost.",
+      "region": "Greenville, SC · Upstate & Western NC",
+      "regions": [
+        "greenville",
+        "spartanburg",
+        "pickens",
+        "anderson",
+        "oconee"
+      ],
+      "url": "https://www.sd4v.org/",
+      "group": "local",
+      "address": "109 Woodruff Industrial Lane, Greenville, SC 29607"
     },
     {
       "id": "greenville-county-va",
@@ -829,6 +862,19 @@
       "group": "statewide"
     },
     {
+      "id": "paals",
+      "name": "Palmetto Animal Assisted Life Services (PAALS)",
+      "blurb": "Columbia nonprofit that trains PTSD and mobility service dogs, free for veterans and first responders. Also places companion dogs with veterans. Serves a limited area around its training center, so check eligibility first.",
+      "region": "Columbia, SC",
+      "regions": [
+        "statewide"
+      ],
+      "url": "https://www.paals.org/",
+      "group": "statewide",
+      "address": "221 N. Grampian Hills Road, Columbia, SC 29223",
+      "phone": "(803) 788-7063"
+    },
+    {
       "id": "va-gov",
       "name": "U.S. Department of Veterans Affairs",
       "blurb": "Health care, disability, education, and home-loan benefits — start here for federal VA services.",
@@ -871,6 +917,51 @@
       "region": "National",
       "regions": [],
       "url": "https://www.woundedwarriorproject.org/",
+      "group": "national"
+    },
+    {
+      "id": "va-service-dog-benefits",
+      "name": "VA Service Dog Benefits",
+      "blurb": "VA doesn’t supply the dog, but if your VA provider prescribes one for vision, hearing, or mobility needs (including mobility limits from a mental health condition), VA covers vet care and gear for dogs from accredited programs. Start with your VA provider.",
+      "region": "National",
+      "regions": [],
+      "url": "https://www.prosthetics.va.gov/serviceandguidedogs.asp",
+      "group": "national"
+    },
+    {
+      "id": "k9s-for-warriors",
+      "name": "K9s For Warriors",
+      "blurb": "Free service dogs for veterans of any era with PTSD, TBI, or MST. Three weeks of training with housing and meals in Ponte Vedra, FL or Helotes, TX; you cover travel. Expect an 18–24 month wait.",
+      "region": "National · Ponte Vedra, FL",
+      "regions": [],
+      "url": "https://k9sforwarriors.org/",
+      "group": "national"
+    },
+    {
+      "id": "americas-vetdogs",
+      "name": "America’s VetDogs",
+      "blurb": "Service dogs for veterans, service members, and first responders with physical injuries, PTSD, hearing or vision loss, or seizures. Everything is free, including travel to its Smithtown, NY campus.",
+      "region": "National · Smithtown, NY",
+      "regions": [],
+      "url": "https://www.vetdogs.org/",
+      "group": "national"
+    },
+    {
+      "id": "canine-companions",
+      "name": "Canine Companions",
+      "blurb": "Free service dogs for veterans with physical disabilities or PTSD, with follow-up support. Its Southeast Training Center in Orlando serves South Carolina.",
+      "region": "National · Southeast center in Orlando, FL",
+      "regions": [],
+      "url": "https://canine.org/service-dogs/service-dogs-for-veterans/",
+      "group": "national"
+    },
+    {
+      "id": "patriot-paws",
+      "name": "Patriot PAWS Service Dogs",
+      "blurb": "Free service dogs for veterans with an honorable discharge and a VA disability rating (it doesn’t have to be combat-related). Open to all 50 states; training is in Rockwall, TX and you cover travel.",
+      "region": "National · Rockwall, TX",
+      "regions": [],
+      "url": "https://patriotpaws.org/",
       "group": "national"
     },
     {
