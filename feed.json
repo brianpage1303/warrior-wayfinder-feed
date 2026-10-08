@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T19:04:46.067Z",
+  "generatedAt": "2026-10-08T04:07:24.863Z",
   "events": [
-    {
-      "id": "nami-vet-connection-2026-10-07",
-      "title": "Veteran’s Connection Support Group",
-      "orgId": "nami-greenville",
-      "orgName": "NAMI Greenville",
-      "date": "2026-10-07",
-      "time": "9:30 AM – 11:00 AM",
-      "location": "NAMI Greenville Office, 130 Industrial Drive Suite A, Greenville, SC 29607",
-      "description": "Peer support for veterans. Meets first and third Wednesdays, 9:30–11:00 AM. Confirm any holiday changes on the NAMI Greenville calendar.",
-      "url": "https://namigreenvillesc.org/event/veterans-connection-support-group-2/2026-10-07/",
-      "region": "greenville",
-      "isRecurring": true
-    },
     {
       "id": "vhv-evening-2026-10-08",
       "title": "Vets Helping Vets — Monthly Evening Potluck",
