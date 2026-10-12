@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T04:08:48.503Z",
+  "generatedAt": "2026-10-12T04:02:38.541Z",
   "events": [
     {
       "id": "vhv-evening-2026-10-08",
@@ -1008,81 +1008,6 @@
       "lng": -117.42101,
       "summary": "Stand Downs are typically one- to three-day events during which VA staff and volunteers provide food, clothing and health screenings to homeless and at-risk Veterans. In addition, Veterans also receive referrals for health care, housing solutions, employment, substance use…",
       "url": "https://discover.va.gov/events/homeless-veteran-stand-down-spokane/"
-    },
-    {
-      "id": "va-gov-91772-2026-10-11",
-      "title": "Fall flu blitz 2026 - American Lake",
-      "date": "2026-10-11",
-      "time": "8:00 AM – 9:00 AM PT",
-      "venue": "American Lake VA Medical Center, Drive thru",
-      "street": "9600 Veterans Drive Southwest",
-      "city": "Tacoma",
-      "state": "WA",
-      "zip": "98493",
-      "lat": 47.16,
-      "lng": -122.56,
-      "summary": "Flu, Flu season, Flu shot, flu vaccine, influenza",
-      "url": "https://www.va.gov/puget-sound-health-care/events/91772"
-    },
-    {
-      "id": "va-4215",
-      "title": "Fall Vet Fest",
-      "date": "2026-10-11",
-      "time": "10:00 AM – 2:00 PM ET",
-      "venue": "Pal-O-Mine Equestrian",
-      "street": "829 Old Nichols Road",
-      "city": "Islandia",
-      "state": "NY",
-      "zip": "11749",
-      "lat": 40.81523,
-      "lng": -73.15524,
-      "summary": "Sponsored by the Veteran Suicide Prevention Coalition, this resource sharing event is held to benefit Veterans, Service Members and their Families.",
-      "url": "https://discover.va.gov/events/fall-vet-fest-2/"
-    },
-    {
-      "id": "va-4100",
-      "title": "Oklahoma City VA Health Care System attending the DAV #29 Car Show",
-      "date": "2026-10-11",
-      "time": "12:00 PM – 4:00 PM CT",
-      "venue": "Disabled American Veterans",
-      "street": "5300 Northwest 23rd Street",
-      "city": "Oklahoma City",
-      "state": "OK",
-      "zip": "73127",
-      "lat": 35.49245,
-      "lng": -97.61158,
-      "summary": "The Oklahoma City VA Health Care System has been invited to attend the annual DAV Car Show, hosted at 5300 NW 23rd Street, Oklahoma City (DAV #29 – Look for the Big Gun). This event is dedicated to supporting Oklahoma Veterans, with all proceeds benefiting local veterans. VA…",
-      "url": "https://discover.va.gov/events/oklahoma-city-va-health-care-system-attending-the-dav-29-car-show/"
-    },
-    {
-      "id": "va-4139",
-      "title": "Radio on the River 2026",
-      "date": "2026-10-11",
-      "time": "1:00 PM – 4:00 PM ET",
-      "venue": "Freedom River",
-      "street": "6716 Winans Lake Road",
-      "city": "Brighton",
-      "state": "MI",
-      "zip": "48116",
-      "lat": 42.4707,
-      "lng": -83.81518,
-      "summary": "The Veterans Radio’s annual fundraising event will be hosted at the beautiful Freedom River facility, the afternoon will include a Veteran resource fair, talented local musicians, locally catered food and beverages, guests speakers, and a raffle. You can also meet the VRA team…",
-      "url": "https://discover.va.gov/events/radio-on-the-river-2026/"
-    },
-    {
-      "id": "va-gov-87640-2026-10-11",
-      "title": "Weekly Chapel Service",
-      "date": "2026-10-11",
-      "time": "10:15 AM – 11:15 AM CT",
-      "venue": "G.V. (Sonny) Montgomery Department of Veterans Affairs Medical Center, Chapel",
-      "street": "1500 East Woodrow Wilson Avenue",
-      "city": "Jackson",
-      "state": "MS",
-      "zip": "39216",
-      "lat": 32.34,
-      "lng": -90.16,
-      "summary": "Join us every Sunday at 10:15 AM in the Chapel for an uplifting service offering hope, encouragement, and inspiration to begin your week with peace.",
-      "url": "https://www.va.gov/jackson-health-care/events/87640"
     },
     {
       "id": "va-gov-91071-2026-10-12",
@@ -3036,6 +2961,20 @@
       "lng": -89.54,
       "summary": "Flu vaccination clinic",
       "url": "https://www.va.gov/poplar-bluff-health-care/events/90763"
+    },
+    {
+      "id": "va-4258",
+      "title": "Carson City Resource Fair",
+      "date": "2026-10-16",
+      "time": "10:00 AM – 2:00 PM PT",
+      "street": "3917 North Carson Street",
+      "city": "Carson City",
+      "state": "NV",
+      "zip": "89706",
+      "lat": 39.19382,
+      "lng": -119.77421,
+      "summary": "This is our first resource fair in this location . We are trying to reach our rural Veterans. We will be offering a wide range of resources at the event.",
+      "url": "https://discover.va.gov/events/carson-city-resource-fair/"
     },
     {
       "id": "va-gov-91772-2026-10-16",
@@ -5260,15 +5199,19 @@
       "url": "https://discover.va.gov/events/okmulgee-american-legion-vet-center-outreach/"
     },
     {
-      "id": "va-gov-92101-2026-10-22",
-      "title": "PACT Act Presentation - What Veterans Need to Know",
+      "id": "va-4254",
+      "title": "PACT Act – What Veterans Need to Know",
       "date": "2026-10-22",
       "time": "10:00 AM – 12:00 PM ET",
-      "venue": "Summit on the Park - Professional Development Center",
+      "venue": "Summit On the Park – Professional Development Center",
       "street": "46000 Summit Parkway",
       "city": "Canton",
       "state": "MI",
-      "url": "https://www.va.gov/ann-arbor-health-care/events/92101"
+      "zip": "48188",
+      "lat": 42.29585,
+      "lng": -83.4928,
+      "summary": "Join us for an informative PACT Act session designed to help Veterans understand new healthcare eligibility, expanded benefits, and how to apply. VBA and VHA experts will answer questions, offer guidance, and ensure you have the information needed to access the care and…",
+      "url": "https://discover.va.gov/events/pact-act-what-veterans-need-to-know/"
     },
     {
       "id": "va-4232",
@@ -5425,15 +5368,19 @@
       "url": "https://discover.va.gov/events/veteran-town-hall-5/"
     },
     {
-      "id": "va-gov-90657-2026-10-22",
-      "title": "Veteran Town Hall - Wood County",
+      "id": "va-4257",
+      "title": "Veteran Town Hall – Wood County",
       "date": "2026-10-22",
       "time": "2:00 PM – 3:00 PM ET",
       "venue": "American Legion Post 15",
-      "street": "2505 Ohio Ave.",
+      "street": "2505 Ohio Avenue",
       "city": "Parkersburg",
       "state": "WV",
-      "url": "https://www.va.gov/clarksburg-health-care/events/90657"
+      "zip": "26101",
+      "lat": 39.28347,
+      "lng": -81.54945,
+      "summary": "Veteran Town Halls are an opportunity for the Executive Director of the medical center to share information about services and programs available for Veterans, while also providing an open forum to address questions and concerns. Our goal is to ensure Veterans, their families…",
+      "url": "https://discover.va.gov/events/veteran-town-hall-wood-county-3/"
     },
     {
       "id": "va-gov-87518-2026-10-22",
@@ -5907,6 +5854,21 @@
       "lng": -91.05,
       "summary": "Flu vaccination clinic",
       "url": "https://www.va.gov/poplar-bluff-health-care/events/90767"
+    },
+    {
+      "id": "va-4256",
+      "title": "RCS D3 410 Chicago Vet Center – VHA-VR Services",
+      "date": "2026-10-23",
+      "time": "10:00 AM – 2:00 PM CT",
+      "venue": "Chicago Vet Center",
+      "street": "8658 South Sacramento Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60652",
+      "lat": 41.73555,
+      "lng": -87.69813,
+      "summary": "VHA VR Services will be onsite to assist veterans with resume building, LinkedIn Profile Picture, and interview skills to assist and support them in the workforce environment.",
+      "url": "https://discover.va.gov/events/rcs-d3-410-chicago-vet-center-vha-vr-services/"
     },
     {
       "id": "va-gov-91976-2026-10-23",
@@ -10124,6 +10086,21 @@
       "url": "https://www.va.gov/houston-health-care/events/85363"
     },
     {
+      "id": "va-4255",
+      "title": "Lunch and Learn for Senior Veterans",
+      "date": "2026-11-10",
+      "time": "12:00 PM – 2:30 PM ET",
+      "venue": "Heritage Commons",
+      "street": "15885 West Michigan Avenue",
+      "city": "Marshall",
+      "state": "MI",
+      "zip": "49068",
+      "lat": 42.27261,
+      "lng": -84.98564,
+      "summary": "Senior Veterans and their caregivers enjoy a free lunch while learning about the benefits available and how to access them.",
+      "url": "https://discover.va.gov/events/lunch-and-learn-for-senior-veterans/"
+    },
+    {
       "id": "va-gov-52583-2026-11-10",
       "title": "Tuesday Yoga Class Schedule",
       "date": "2026-11-10",
@@ -13567,6 +13544,90 @@
       "url": "https://www.va.gov/tuscaloosa-health-care/events/52601"
     },
     {
+      "id": "va-gov-88827-2026-12-11",
+      "title": "Chess Club!",
+      "date": "2026-12-11",
+      "time": "10:00 AM – 12:30 PM ET",
+      "venue": "Rochester Calkins VA Clinic, Susan B. Anthony Room 4019, Outpatient Clinic",
+      "street": "260 Calkins Road",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "14623",
+      "lat": 43.09,
+      "lng": -77.64,
+      "url": "https://www.va.gov/finger-lakes-health-care/events/88827"
+    },
+    {
+      "id": "va-gov-85364-2026-12-11",
+      "title": "Free Legal Clinic for Veterans & Family Members",
+      "date": "2026-12-11",
+      "time": "1:00 PM – 3:30 PM CT",
+      "venue": "Michael E. DeBakey Department of Veterans Affairs Medical Center, Building 108A – Steps from the main medical center entrance",
+      "street": "2002 Holcombe Boulevard",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77030",
+      "lat": 29.71,
+      "lng": -95.4,
+      "url": "https://www.va.gov/houston-health-care/events/85364"
+    },
+    {
+      "id": "va-gov-60751-2026-12-11",
+      "title": "Grief Group years 55 and over",
+      "date": "2026-12-11",
+      "time": "9:30 AM – 10:30 AM PT",
+      "venue": "North Las Vegas VA Medical Center, Mental Health Building",
+      "street": "6900 North Pecos Road",
+      "city": "North Las Vegas",
+      "state": "NV",
+      "zip": "89086",
+      "lat": 36.28,
+      "lng": -115.11,
+      "summary": "Grief Group for grieving Veterans ages 55 and over, Mental Health, VA Southern Nevada Healthcare System",
+      "url": "https://www.va.gov/southern-nevada-health-care/events/60751"
+    },
+    {
+      "id": "va-gov-90972-2026-12-11",
+      "title": "Ohana Market and Information Fair",
+      "date": "2026-12-11",
+      "time": "8:00 AM – 12:00 PM HT",
+      "venue": "Daniel Kahikina Akaka VA Clinic, Main Lobby",
+      "street": "91-1051 Franklin D. Roosevelt Avenue",
+      "city": "Kapolei",
+      "state": "HI",
+      "zip": "96707",
+      "lat": 21.36,
+      "lng": -158.08,
+      "summary": "Information Fair, Food Distribution",
+      "url": "https://www.va.gov/pacific-islands-health-care/events/90972"
+    },
+    {
+      "id": "va-gov-88496-2026-12-11",
+      "title": "Veteran Yoga",
+      "date": "2026-12-11",
+      "time": "10:00 AM – 11:00 AM CT",
+      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
+      "street": "1100 North College Avenue",
+      "city": "Fayetteville",
+      "state": "AR",
+      "zip": "72703",
+      "lat": 36.12,
+      "lng": -94.04,
+      "summary": "In-person Yoga - no experience needed",
+      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88496"
+    },
+    {
+      "id": "va-gov-56659-2026-12-11",
+      "title": "Veterans Coffee Break with Southside Strong",
+      "date": "2026-12-11",
+      "time": "9:00 AM – 11:00 AM CT",
+      "venue": "Blue Door Neighborhood Center (Pullman Location)",
+      "street": "756 E 111 St.",
+      "city": "Chicago",
+      "state": "IL",
+      "url": "https://www.va.gov/chicago-health-care/events/56659"
+    },
+    {
       "id": "va-3498",
       "title": "Celebrate the Season at the Veterans Café – Bristol",
       "date": "2026-12-16",
@@ -13612,7 +13673,7 @@
       "url": "https://discover.va.gov/events/va-providence-summer-vetconnect/"
     }
   ],
-  "vaEventsUpdatedAt": "2026-10-11T04:08:48.503Z",
+  "vaEventsUpdatedAt": "2026-10-12T04:02:38.541Z",
   "vaEventsSource": "https://discover.va.gov/events/wp-json/wp/v2/events",
   "vaEventsSources": [
     "https://discover.va.gov/events/wp-json/wp/v2/events",
