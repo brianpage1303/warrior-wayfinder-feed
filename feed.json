@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T04:02:38.541Z",
+  "generatedAt": "2026-10-13T04:10:14.289Z",
   "events": [
     {
       "id": "vhv-evening-2026-10-08",
@@ -1010,48 +1010,6 @@
       "url": "https://discover.va.gov/events/homeless-veteran-stand-down-spokane/"
     },
     {
-      "id": "va-gov-91071-2026-10-12",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic - Hays CBOC",
-      "date": "2026-10-12",
-      "time": "1:30 PM – 3:30 PM CT",
-      "venue": "Hays VA Clinic",
-      "street": "4107 Vine Street",
-      "city": "Hays",
-      "state": "KS",
-      "zip": "67601",
-      "lat": 38.87,
-      "lng": -99.34,
-      "url": "https://www.va.gov/wichita-health-care/events/91071"
-    },
-    {
-      "id": "va-gov-91073-2026-10-12",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic - Parsons CBOC",
-      "date": "2026-10-12",
-      "time": "1:30 PM – 3:30 PM CT",
-      "venue": "Parsons VA Clinic",
-      "street": "1907 Harding Drive",
-      "city": "Parsons",
-      "state": "KS",
-      "zip": "67357",
-      "lat": 37.34,
-      "lng": -95.25,
-      "url": "https://www.va.gov/wichita-health-care/events/91073"
-    },
-    {
-      "id": "va-gov-75680-2026-10-12",
-      "title": "Bunker Social",
-      "date": "2026-10-12",
-      "time": "11:00 AM – 2:00 PM PT",
-      "venue": "West Los Angeles VA Medical Center, Bldg. 306, Peer Center Patio",
-      "street": "11301 Wilshire Boulevard",
-      "city": "Los Angeles",
-      "state": "CA",
-      "zip": "90073",
-      "lat": 34.06,
-      "lng": -118.46,
-      "url": "https://www.va.gov/greater-los-angeles-health-care/events/75680"
-    },
-    {
       "id": "va-gov-92085-2026-10-12",
       "title": "Columbus Day Federal Holiday",
       "date": "2026-10-12",
@@ -1065,65 +1023,6 @@
       "lat": 41.24,
       "lng": -95.96,
       "url": "https://www.va.gov/nebraska-western-iowa-health-care/events/92085"
-    },
-    {
-      "id": "va-gov-91772-2026-10-12",
-      "title": "Fall flu blitz 2026 - American Lake",
-      "date": "2026-10-12",
-      "time": "8:00 AM – 9:00 AM PT",
-      "venue": "American Lake VA Medical Center, Drive thru",
-      "street": "9600 Veterans Drive Southwest",
-      "city": "Tacoma",
-      "state": "WA",
-      "zip": "98493",
-      "lat": 47.16,
-      "lng": -122.56,
-      "summary": "Flu, Flu season, Flu shot, flu vaccine, influenza",
-      "url": "https://www.va.gov/puget-sound-health-care/events/91772"
-    },
-    {
-      "id": "va-gov-88979-2026-10-12",
-      "title": "Federal EHR Breakfast Briefing- Wausau VA Clinic",
-      "date": "2026-10-12",
-      "time": "8:45 AM – 10:45 AM CT",
-      "venue": "Wausau VA Clinic",
-      "street": "1105 East Grand Avenue",
-      "city": "Rothschild",
-      "state": "WI",
-      "zip": "54474",
-      "lat": 44.87,
-      "lng": -89.62,
-      "summary": "FEDERAL ELECTRONIC HEALTH RECORD (EHR) BREAKFAST BRIEFING!",
-      "url": "https://www.va.gov/tomah-health-care/events/88979"
-    },
-    {
-      "id": "va-gov-88497-2026-10-12",
-      "title": "Veteran Yoga",
-      "date": "2026-10-12",
-      "time": "10:00 AM – 11:00 AM CT",
-      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
-      "street": "1100 North College Avenue",
-      "city": "Fayetteville",
-      "state": "AR",
-      "zip": "72703",
-      "lat": 36.12,
-      "lng": -94.04,
-      "summary": "In-person Yoga - no experience needed",
-      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
-    },
-    {
-      "id": "va-gov-85230-2026-10-12",
-      "title": "Women Veterans' Social at the Peer Center",
-      "date": "2026-10-12",
-      "time": "5:00 PM – 6:30 PM PT",
-      "venue": "West Los Angeles VA Medical Center, Peer Center, Building 306",
-      "street": "11301 Wilshire Boulevard",
-      "city": "Los Angeles",
-      "state": "CA",
-      "zip": "90073",
-      "lat": 34.06,
-      "lng": -118.46,
-      "url": "https://www.va.gov/greater-los-angeles-health-care/events/85230"
     },
     {
       "id": "va-gov-91069-2026-10-13",
@@ -13673,7 +13572,7 @@
       "url": "https://discover.va.gov/events/va-providence-summer-vetconnect/"
     }
   ],
-  "vaEventsUpdatedAt": "2026-10-12T04:02:38.541Z",
+  "vaEventsUpdatedAt": "2026-10-13T04:10:14.289Z",
   "vaEventsSource": "https://discover.va.gov/events/wp-json/wp/v2/events",
   "vaEventsSources": [
     "https://discover.va.gov/events/wp-json/wp/v2/events",
