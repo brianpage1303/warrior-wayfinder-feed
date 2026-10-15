@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-15T04:01:26.910Z",
+  "generatedAt": "2026-10-15T04:06:02.783Z",
   "events": [
     {
       "id": "vhv-evening-2026-10-08",
@@ -3459,6 +3459,17 @@
       "url": "https://www.va.gov/palo-alto-health-care/events/80764"
     },
     {
+      "id": "va-gov-92255-2026-10-21",
+      "title": "Morris County Veterans Resource Connection",
+      "date": "2026-10-21",
+      "time": "11:00 AM – 3:00 PM ET",
+      "venue": "Morris County Veterans Services office",
+      "street": "540 W Hanover Ave.",
+      "city": "Morristown",
+      "state": "NJ",
+      "url": "https://www.va.gov/new-jersey-health-care/events/92255"
+    },
+    {
       "id": "va-4179",
       "title": "OCTOBER 21, 2026 UNACCOMPANIED VETERANS CEREMONY",
       "date": "2026-10-21",
@@ -4619,6 +4630,21 @@
       "lng": -115.15345,
       "summary": "MCON hosts in annual conference in Las Vegas, Nevada, and has invited VA Southern Nevada to host a VA resource fair at this year’s MCON Health Summit happening in October. In previous years, we’ve had Suicide Prevention, Peer Support, and Enrollment services available for…",
       "url": "https://discover.va.gov/events/mcon-2026/"
+    },
+    {
+      "id": "va-gov-92254-2026-10-23",
+      "title": "Medication Take Back Day",
+      "date": "2026-10-23",
+      "time": "8:00 AM – 4:00 PM ET",
+      "venue": "Rochester Calkins VA Clinic",
+      "street": "260 Calkins Road",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "14623",
+      "lat": 43.09,
+      "lng": -77.64,
+      "summary": "Medication Take Back",
+      "url": "https://www.va.gov/finger-lakes-health-care/events/92254"
     },
     {
       "id": "va-gov-91954-2026-10-23",
@@ -5794,6 +5820,20 @@
       "url": "https://www.va.gov/houston-health-care/events/85363"
     },
     {
+      "id": "va-gov-92261-2026-10-27",
+      "title": "Trunk or Treat - Jamaica Plain campus",
+      "date": "2026-10-27",
+      "time": "10:00 AM – 1:00 PM ET",
+      "venue": "Jamaica Plain VA Medical Center",
+      "street": "150 South Huntington Avenue",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02130",
+      "lat": 42.31,
+      "lng": -71.11,
+      "url": "https://www.va.gov/boston-health-care/events/92261"
+    },
+    {
       "id": "va-gov-52583-2026-10-27",
       "title": "Tuesday Yoga Class Schedule",
       "date": "2026-10-27",
@@ -6021,6 +6061,20 @@
       "url": "https://www.va.gov/tennessee-valley-health-care/events/92093"
     },
     {
+      "id": "va-gov-92252-2026-10-28",
+      "title": "Breast Cancer Awareness Resource Fair",
+      "date": "2026-10-28",
+      "time": "1:00 PM – 3:00 PM ET",
+      "venue": "Salem VA Medical Center, Building 5 Auditorium",
+      "street": "1970 Roanoke Boulevard",
+      "city": "Salem",
+      "state": "VA",
+      "zip": "24153",
+      "lat": 37.3,
+      "lng": -80.11,
+      "url": "https://www.va.gov/salem-health-care/events/92252"
+    },
+    {
       "id": "va-4224",
       "title": "Cheboygan Veteran Coffee",
       "date": "2026-10-28",
@@ -6179,6 +6233,20 @@
       "city": "Santa Cruz",
       "state": "CA",
       "url": "https://www.va.gov/palo-alto-health-care/events/80764"
+    },
+    {
+      "id": "va-gov-92262-2026-10-28",
+      "title": "Trunk or Treat - West Roxbury campus",
+      "date": "2026-10-28",
+      "time": "10:00 AM – 1:00 PM ET",
+      "venue": "West Roxbury VA Medical Center",
+      "street": "1400 VFW Parkway",
+      "city": "West Roxbury",
+      "state": "MA",
+      "zip": "02132",
+      "lat": 42.28,
+      "lng": -71.16,
+      "url": "https://www.va.gov/boston-health-care/events/92262"
     },
     {
       "id": "va-gov-87753-2026-10-28",
@@ -6536,6 +6604,21 @@
       "url": "https://discover.va.gov/events/domestic-violence-awareness-event-mayaguez-clinic/"
     },
     {
+      "id": "va-gov-92265-2026-10-29",
+      "title": "Domestic Violence Awareness Month Veteran Trunk or Treat and Resource Fair",
+      "date": "2026-10-29",
+      "time": "4:00 PM – 7:00 PM MT",
+      "venue": "El Paso VA Clinic, Main Parking Lot",
+      "street": "5001 North Piedras Street",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79930",
+      "lat": 31.81,
+      "lng": -106.47,
+      "summary": "Domestic Violence Awareness Month Veteran Trunk or Treat",
+      "url": "https://www.va.gov/el-paso-health-care/events/92265"
+    },
+    {
       "id": "va-gov-91538-2026-10-29",
       "title": "Flu Shot Fair - Childersburg VA Clinic",
       "date": "2026-10-29",
@@ -6649,6 +6732,20 @@
       "lng": -97.28,
       "summary": "Trick or Treat with Dole VA",
       "url": "https://www.va.gov/wichita-health-care/events/91057"
+    },
+    {
+      "id": "va-gov-92263-2026-10-29",
+      "title": "Trunk or Treat - Brockton campus",
+      "date": "2026-10-29",
+      "time": "10:00 AM – 1:00 PM ET",
+      "venue": "Brockton VA Medical Center",
+      "street": "940 Belmont Street",
+      "city": "Brockton",
+      "state": "MA",
+      "zip": "02301",
+      "lat": 42.08,
+      "lng": -71.04,
+      "url": "https://www.va.gov/boston-health-care/events/92263"
     },
     {
       "id": "va-gov-82299-2026-10-29",
@@ -8332,6 +8429,20 @@
       "url": "https://www.va.gov/finger-lakes-health-care/events/91926"
     },
     {
+      "id": "va-gov-92251-2026-11-05",
+      "title": "Watertown VA Fall Fest",
+      "date": "2026-11-05",
+      "time": "11:00 AM – 3:00 PM ET",
+      "venue": "Watertown VA Clinic",
+      "street": "1222 Arsenal Street, Suite 10A",
+      "city": "Watertown",
+      "state": "NY",
+      "zip": "13601",
+      "lat": 43.97,
+      "lng": -75.91,
+      "url": "https://www.va.gov/syracuse-health-care/events/92251"
+    },
+    {
       "id": "va-gov-82667-2026-11-05",
       "title": "Women Veterans Disability Claims Clinic: One-on-One Assistance with VA Claims",
       "date": "2026-11-05",
@@ -9109,6 +9220,20 @@
       "lng": -84.98564,
       "summary": "Senior Veterans and their caregivers enjoy a free lunch while learning about the benefits available and how to access them.",
       "url": "https://discover.va.gov/events/lunch-and-learn-for-senior-veterans/"
+    },
+    {
+      "id": "va-gov-92268-2026-11-10",
+      "title": "Sidewalk Chalk - Veterans Day 2026",
+      "date": "2026-11-10",
+      "time": "12:00 PM – 1:00 PM PT",
+      "venue": "Tibor Rubin VA Medical Center, Concrete pathway by entrance of Bldg. 126",
+      "street": "5901 East Seventh Street",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90822",
+      "lat": 33.78,
+      "lng": -118.12,
+      "url": "https://www.va.gov/long-beach-health-care/events/92268"
     },
     {
       "id": "va-gov-52583-2026-11-10",
@@ -10607,6 +10732,20 @@
       "lng": -95.96,
       "summary": "Monthly VA Info Fair",
       "url": "https://www.va.gov/nebraska-western-iowa-health-care/events/86653"
+    },
+    {
+      "id": "va-gov-92270-2026-11-19",
+      "title": "Holiday Healthy Teaching Kitchen (In-Person)",
+      "date": "2026-11-19",
+      "time": "1:00 PM – 2:30 PM MT",
+      "venue": "George E. Wahlen Department of Veterans Affairs Medical Center",
+      "street": "500 Foothill Boulevard",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84148",
+      "lat": 40.77,
+      "lng": -111.89,
+      "url": "https://www.va.gov/salt-lake-city-health-care/events/92270"
     },
     {
       "id": "va-gov-85307-2026-11-19",
@@ -12724,6 +12863,71 @@
       "url": "https://www.va.gov/jackson-health-care/events/87640"
     },
     {
+      "id": "va-gov-75680-2026-12-14",
+      "title": "Bunker Social",
+      "date": "2026-12-14",
+      "time": "11:00 AM – 2:00 PM PT",
+      "venue": "West Los Angeles VA Medical Center, Bldg. 306, Peer Center Patio",
+      "street": "11301 Wilshire Boulevard",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90073",
+      "lat": 34.06,
+      "lng": -118.46,
+      "url": "https://www.va.gov/greater-los-angeles-health-care/events/75680"
+    },
+    {
+      "id": "va-gov-56696-2026-12-14",
+      "title": "Hines VA Outreach at LaSalle County Veterans Assistance Commission",
+      "date": "2026-12-14",
+      "time": "10:00 AM – 2:00 PM CT",
+      "venue": "LaSalle County Veterans Assistance Commission",
+      "street": "4231 Progress Blvd",
+      "city": "Peru",
+      "state": "IL",
+      "url": "https://www.va.gov/hines-health-care/events/56696"
+    },
+    {
+      "id": "va-gov-56711-2026-12-14",
+      "title": "Hines VA Outreach at LaSalle County Veterans Assistance Commission - Peru, IL",
+      "date": "2026-12-14",
+      "time": "10:00 AM – 2:00 PM CT",
+      "venue": "LaSalle County Veterans Assistance Commission",
+      "street": "4231 Progress Blvd",
+      "city": "Peru",
+      "state": "IL",
+      "url": "https://www.va.gov/outreach-and-events/events/56711"
+    },
+    {
+      "id": "va-gov-88497-2026-12-14",
+      "title": "Veteran Yoga",
+      "date": "2026-12-14",
+      "time": "10:00 AM – 11:00 AM CT",
+      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
+      "street": "1100 North College Avenue",
+      "city": "Fayetteville",
+      "state": "AR",
+      "zip": "72703",
+      "lat": 36.12,
+      "lng": -94.04,
+      "summary": "In-person Yoga - no experience needed",
+      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
+    },
+    {
+      "id": "va-gov-85230-2026-12-14",
+      "title": "Women Veterans' Social at the Peer Center",
+      "date": "2026-12-14",
+      "time": "5:00 PM – 6:30 PM PT",
+      "venue": "West Los Angeles VA Medical Center, Peer Center, Building 306",
+      "street": "11301 Wilshire Boulevard",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90073",
+      "lat": 34.06,
+      "lng": -118.46,
+      "url": "https://www.va.gov/greater-los-angeles-health-care/events/85230"
+    },
+    {
       "id": "va-3498",
       "title": "Celebrate the Season at the Veterans Café – Bristol",
       "date": "2026-12-16",
@@ -12769,7 +12973,7 @@
       "url": "https://discover.va.gov/events/va-providence-summer-vetconnect/"
     }
   ],
-  "vaEventsUpdatedAt": "2026-10-15T04:01:26.909Z",
+  "vaEventsUpdatedAt": "2026-10-15T04:06:02.783Z",
   "vaEventsSource": "https://discover.va.gov/events/wp-json/wp/v2/events",
   "vaEventsSources": [
     "https://discover.va.gov/events/wp-json/wp/v2/events",
