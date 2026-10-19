@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T04:09:31.373Z",
+  "generatedAt": "2026-10-19T04:07:56.529Z",
   "events": [
     {
       "id": "vhv-evening-2026-10-08",
@@ -994,36 +994,6 @@
     }
   ],
   "vaEvents": [
-    {
-      "id": "va-gov-91772-2026-10-18",
-      "title": "Fall flu blitz 2026 - American Lake",
-      "date": "2026-10-18",
-      "time": "8:00 AM – 9:00 AM PT",
-      "venue": "American Lake VA Medical Center, Drive thru",
-      "street": "9600 Veterans Drive Southwest",
-      "city": "Tacoma",
-      "state": "WA",
-      "zip": "98493",
-      "lat": 47.16,
-      "lng": -122.56,
-      "summary": "Flu, Flu season, Flu shot, flu vaccine, influenza",
-      "url": "https://www.va.gov/puget-sound-health-care/events/91772"
-    },
-    {
-      "id": "va-gov-87640-2026-10-18",
-      "title": "Weekly Chapel Service",
-      "date": "2026-10-18",
-      "time": "10:15 AM – 11:15 AM CT",
-      "venue": "G.V. (Sonny) Montgomery Department of Veterans Affairs Medical Center, Chapel",
-      "street": "1500 East Woodrow Wilson Avenue",
-      "city": "Jackson",
-      "state": "MS",
-      "zip": "39216",
-      "lat": 32.34,
-      "lng": -90.16,
-      "summary": "Join us every Sunday at 10:15 AM in the Chapel for an uplifting service offering hope, encouragement, and inspiration to begin your week with peace.",
-      "url": "https://www.va.gov/jackson-health-care/events/87640"
-    },
     {
       "id": "va-gov-91069-2026-10-19",
       "title": "2026 Veteran Walk-in Flu Vaccination Clinic",
@@ -5507,6 +5477,21 @@
       "lng": -87.48,
       "summary": "Veteran yoga class",
       "url": "https://www.va.gov/tuscaloosa-health-care/events/52601"
+    },
+    {
+      "id": "va-gov-89241-2026-10-29",
+      "title": "TRICARE West Brief: An Overview of Your TRICARE Benefit in the U.S.",
+      "date": "2026-10-29",
+      "time": "1:00 PM – 3:00 PM CT",
+      "venue": "Captain James A. Lovell Federal Health Care Center, Auditorium, Bldg. 4",
+      "street": "3001 Green Bay Road",
+      "city": "North Chicago",
+      "state": "IL",
+      "zip": "60064",
+      "lat": 42.32,
+      "lng": -87.86,
+      "summary": "New to TRICARE? Do you have questions about TRICARE and do you understand the different plans? You are invited to learn more about your TRICARE insurance benefit from TRIWEST representatives during this monthly briefing at the Captain James A. Lovell Federal Health Care Center.",
+      "url": "https://www.va.gov/lovell-federal-health-care-va/events/89241"
     },
     {
       "id": "va-gov-91057-2026-10-29",
@@ -12559,6 +12544,103 @@
       "url": "https://www.va.gov/greater-los-angeles-health-care/events/85501"
     },
     {
+      "id": "va-gov-85364-2026-12-18",
+      "title": "Free Legal Clinic for Veterans & Family Members",
+      "date": "2026-12-18",
+      "time": "1:00 PM – 3:30 PM CT",
+      "venue": "Michael E. DeBakey Department of Veterans Affairs Medical Center, Building 108A – Steps from the main medical center entrance",
+      "street": "2002 Holcombe Boulevard",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77030",
+      "lat": 29.71,
+      "lng": -95.4,
+      "url": "https://www.va.gov/houston-health-care/events/85364"
+    },
+    {
+      "id": "va-gov-60751-2026-12-18",
+      "title": "Grief Group years 55 and over",
+      "date": "2026-12-18",
+      "time": "9:30 AM – 10:30 AM PT",
+      "venue": "North Las Vegas VA Medical Center, Mental Health Building",
+      "street": "6900 North Pecos Road",
+      "city": "North Las Vegas",
+      "state": "NV",
+      "zip": "89086",
+      "lat": 36.28,
+      "lng": -115.11,
+      "summary": "Grief Group for grieving Veterans ages 55 and over, Mental Health, VA Southern Nevada Healthcare System",
+      "url": "https://www.va.gov/southern-nevada-health-care/events/60751"
+    },
+    {
+      "id": "va-gov-89430-2026-12-18",
+      "title": "Veteran Connection Cafe Rochester",
+      "date": "2026-12-18",
+      "time": "8:30 AM – 10:30 AM ET",
+      "venue": "Rochester Calkins VA Clinic, Susan B. Anthony Conference Room",
+      "street": "260 Calkins Road",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "14623",
+      "lat": 43.09,
+      "lng": -77.64,
+      "url": "https://www.va.gov/finger-lakes-health-care/events/89430"
+    },
+    {
+      "id": "va-gov-88496-2026-12-18",
+      "title": "Veteran Yoga",
+      "date": "2026-12-18",
+      "time": "10:00 AM – 11:00 AM CT",
+      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
+      "street": "1100 North College Avenue",
+      "city": "Fayetteville",
+      "state": "AR",
+      "zip": "72703",
+      "lat": 36.12,
+      "lng": -94.04,
+      "summary": "In-person Yoga - no experience needed",
+      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88496"
+    },
+    {
+      "id": "va-gov-56659-2026-12-18",
+      "title": "Veterans Coffee Break with Southside Strong",
+      "date": "2026-12-18",
+      "time": "9:00 AM – 11:00 AM CT",
+      "venue": "Blue Door Neighborhood Center (Pullman Location)",
+      "street": "756 E 111 St.",
+      "city": "Chicago",
+      "state": "IL",
+      "url": "https://www.va.gov/chicago-health-care/events/56659"
+    },
+    {
+      "id": "va-gov-86184-2026-12-18",
+      "title": "Veterans Legal Institute Legal Clinic",
+      "date": "2026-12-18",
+      "time": "9:00 AM – 12:00 PM PT",
+      "venue": "Tibor Rubin VA Medical Center, Bldg. 165, Rm. C209B and D101 (The Egg)",
+      "street": "5901 East Seventh Street",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90822",
+      "lat": 33.78,
+      "lng": -118.12,
+      "url": "https://www.va.gov/long-beach-health-care/events/86184"
+    },
+    {
+      "id": "va-gov-91292-2026-12-18",
+      "title": "Veterans Social Connection",
+      "date": "2026-12-18",
+      "time": "8:30 AM – 10:30 AM PT",
+      "venue": "Tibor Rubin VA Medical Center, Canteen Patio",
+      "street": "5901 East Seventh Street",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90822",
+      "lat": 33.78,
+      "lng": -118.12,
+      "url": "https://www.va.gov/long-beach-health-care/events/91292"
+    },
+    {
       "id": "va-4296",
       "title": "VA Providence VetConnect",
       "date": "2027-01-20",
@@ -12619,7 +12701,7 @@
       "url": "https://discover.va.gov/events/va-providence-summer-vetconnect/"
     }
   ],
-  "vaEventsUpdatedAt": "2026-10-18T04:09:31.373Z",
+  "vaEventsUpdatedAt": "2026-10-19T04:07:56.529Z",
   "vaEventsSource": "https://discover.va.gov/events/wp-json/wp/v2/events",
   "vaEventsSources": [
     "https://discover.va.gov/events/wp-json/wp/v2/events",
