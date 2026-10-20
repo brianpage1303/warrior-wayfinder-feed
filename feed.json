@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T04:07:56.529Z",
+  "generatedAt": "2026-10-20T04:07:41.675Z",
   "events": [
     {
       "id": "vhv-evening-2026-10-08",
@@ -995,261 +995,6 @@
   ],
   "vaEvents": [
     {
-      "id": "va-gov-91069-2026-10-19",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic",
-      "date": "2026-10-19",
-      "time": "8:00 AM – 3:00 PM CT",
-      "venue": "Wichita VA Regional Benefit Office at Robert J. Dole VA Medical Center, Building 3, first floor lobby",
-      "street": "9111 E. Douglas Ave, Suite 200",
-      "city": "Wichita",
-      "state": "KS",
-      "zip": "67207",
-      "lat": 37.67,
-      "lng": -97.23,
-      "url": "https://www.va.gov/wichita-health-care/events/91069"
-    },
-    {
-      "id": "va-gov-91071-2026-10-19",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic - Hays CBOC",
-      "date": "2026-10-19",
-      "time": "1:30 PM – 3:30 PM CT",
-      "venue": "Hays VA Clinic",
-      "street": "4107 Vine Street",
-      "city": "Hays",
-      "state": "KS",
-      "zip": "67601",
-      "lat": 38.87,
-      "lng": -99.34,
-      "url": "https://www.va.gov/wichita-health-care/events/91071"
-    },
-    {
-      "id": "va-gov-91073-2026-10-19",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic - Parsons CBOC",
-      "date": "2026-10-19",
-      "time": "1:30 PM – 3:30 PM CT",
-      "venue": "Parsons VA Clinic",
-      "street": "1907 Harding Drive",
-      "city": "Parsons",
-      "state": "KS",
-      "zip": "67357",
-      "lat": 37.34,
-      "lng": -95.25,
-      "url": "https://www.va.gov/wichita-health-care/events/91073"
-    },
-    {
-      "id": "va-gov-91344-2026-10-19",
-      "title": "Amarillo Veterans Flu Fair",
-      "date": "2026-10-19",
-      "time": "9:00 AM – 4:00 PM CT",
-      "venue": "Thomas E. Creek Department of Veterans Affairs Medical Center",
-      "street": "6010 Amarillo Boulevard, West",
-      "city": "Amarillo",
-      "state": "TX",
-      "zip": "79106",
-      "lat": 35.2,
-      "lng": -101.89,
-      "url": "https://www.va.gov/amarillo-health-care/events/91344"
-    },
-    {
-      "id": "va-gov-75680-2026-10-19",
-      "title": "Bunker Social",
-      "date": "2026-10-19",
-      "time": "11:00 AM – 2:00 PM PT",
-      "venue": "West Los Angeles VA Medical Center, Bldg. 306, Peer Center Patio",
-      "street": "11301 Wilshire Boulevard",
-      "city": "Los Angeles",
-      "state": "CA",
-      "zip": "90073",
-      "lat": 34.06,
-      "lng": -118.46,
-      "url": "https://www.va.gov/greater-los-angeles-health-care/events/75680"
-    },
-    {
-      "id": "va-gov-91772-2026-10-19",
-      "title": "Fall flu blitz 2026 - American Lake",
-      "date": "2026-10-19",
-      "time": "8:00 AM – 9:00 AM PT",
-      "venue": "American Lake VA Medical Center, Drive thru",
-      "street": "9600 Veterans Drive Southwest",
-      "city": "Tacoma",
-      "state": "WA",
-      "zip": "98493",
-      "lat": 47.16,
-      "lng": -122.56,
-      "summary": "Flu, Flu season, Flu shot, flu vaccine, influenza",
-      "url": "https://www.va.gov/puget-sound-health-care/events/91772"
-    },
-    {
-      "id": "va-gov-88982-2026-10-19",
-      "title": "Federal EHR Breakfast Briefings- Wisconsin Rapids VA Clinic",
-      "date": "2026-10-19",
-      "time": "7:45 AM – 9:45 AM CT",
-      "venue": "Wisconsin Rapids VA Clinic",
-      "street": "700 Hale Street",
-      "city": "Wisconsin Rapids",
-      "state": "WI",
-      "zip": "54495",
-      "lat": 44.39,
-      "lng": -89.96,
-      "url": "https://www.va.gov/tomah-health-care/events/88982"
-    },
-    {
-      "id": "va-gov-91639-2026-10-19",
-      "title": "Flu vaccinations 2026",
-      "date": "2026-10-19",
-      "time": "8:30 AM – 3:00 PM ET",
-      "venue": "Salem VA Medical Center, Lobby",
-      "street": "1970 Roanoke Boulevard",
-      "city": "Salem",
-      "state": "VA",
-      "zip": "24153",
-      "lat": 37.3,
-      "lng": -80.11,
-      "url": "https://www.va.gov/salem-health-care/events/91639"
-    },
-    {
-      "id": "va-gov-92032-2026-10-19",
-      "title": "LTC Kettles VAMC Pharmacy Week Resource Fair",
-      "date": "2026-10-19",
-      "time": "11:00 AM – 1:00 PM ET",
-      "venue": "Lieutenant Colonel Charles S. Kettles VA Medical Center, Welcome Center",
-      "street": "2215 Fuller Road",
-      "city": "Ann Arbor",
-      "state": "MI",
-      "zip": "48105",
-      "lat": 42.33,
-      "lng": -83.7,
-      "url": "https://www.va.gov/ann-arbor-health-care/events/92032"
-    },
-    {
-      "id": "va-4177",
-      "title": "Lubbock Veterans Flu Fair and Town Hall",
-      "date": "2026-10-19",
-      "time": "9:00 AM – 12:00 PM CT",
-      "street": "3510 4th Street",
-      "city": "Lubbock",
-      "state": "TX",
-      "zip": "79415",
-      "lat": 33.59352,
-      "lng": -101.89041,
-      "summary": "The Lubbock VA Clinic will host an in-person Flu Fair this year instead of a drive thru Flu Fair. This will be held October 19-23 from 8:30 a.m. to 12 p.m. in the second floor conference room. On October 22, the Lubbock Veterans Town Hall will be from 6-7 p.m. with a resource…",
-      "url": "https://discover.va.gov/events/lubbock-veterans-flu-fair-and-town-hall/"
-    },
-    {
-      "id": "va-4071",
-      "title": "Mobile Medical Outreach – Hollister",
-      "date": "2026-10-19",
-      "time": "10:15 AM – 2:15 PM PT",
-      "street": "649 San Benito Street",
-      "city": "Hollister",
-      "state": "CA",
-      "zip": "95023",
-      "lat": 36.8497,
-      "lng": -121.40138,
-      "summary": "Assist Veterans with enrollment, establishing care with PACT medical providers, same day visits with mobile medical providers, toxic exposure screening; VA resources and referrals.",
-      "url": "https://discover.va.gov/events/mobile-medical-outreach-hollister/"
-    },
-    {
-      "id": "va-gov-91310-2026-10-19",
-      "title": "Orlando VA Marks Domestic Violence Awareness Month with Events Focused on Healthy Relationships, Safety",
-      "date": "2026-10-19",
-      "time": "11:00 AM – 2:00 PM ET",
-      "venue": "Orlando VA Medical Center, 4th Floor Auditorium",
-      "street": "13800 Veterans Way",
-      "city": "Orlando",
-      "state": "FL",
-      "zip": "32827",
-      "lat": 28.43,
-      "lng": -81.32,
-      "url": "https://www.va.gov/orlando-health-care/events/91310"
-    },
-    {
-      "id": "va-gov-92031-2026-10-19",
-      "title": "Pharmacy Week at the MG Dillard VA Clinic in Canton",
-      "date": "2026-10-19",
-      "time": "10:00 AM – 2:00 PM ET",
-      "venue": "Major General Oliver W. Dillard VA Clinic",
-      "street": "5900 North Lotz Road",
-      "city": "Canton",
-      "state": "MI",
-      "zip": "48187",
-      "lat": 42.33,
-      "lng": -83.48,
-      "summary": "Your Health, Your Questions – Let’s Talk Medications",
-      "url": "https://www.va.gov/ann-arbor-health-care/events/92031"
-    },
-    {
-      "id": "va-gov-82332-2026-10-19",
-      "title": "Veteran Flu Clinic - Outpatient Clinics",
-      "date": "2026-10-19",
-      "time": "9:00 AM – 3:00 PM CT",
-      "venue": "Balcones Heights VA Clinic",
-      "street": "4522 Fredericksburg Road, Suites A10, A88, A100",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78201",
-      "lat": 29.47,
-      "lng": -98.53,
-      "url": "https://www.va.gov/south-texas-health-care/events/82332"
-    },
-    {
-      "id": "va-gov-82331-2026-10-19",
-      "title": "Veteran Flu Clinic - San Antonio Northwest Health Care Center",
-      "date": "2026-10-19",
-      "time": "9:00 AM – 3:00 PM CT",
-      "venue": "North West San Antonio VA Clinic, 1st Floor, 1B124",
-      "street": "9939 State Highway 151",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78251",
-      "lat": 29.46,
-      "lng": -98.68,
-      "url": "https://www.va.gov/south-texas-health-care/events/82331"
-    },
-    {
-      "id": "va-gov-88497-2026-10-19",
-      "title": "Veteran Yoga",
-      "date": "2026-10-19",
-      "time": "10:00 AM – 11:00 AM CT",
-      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
-      "street": "1100 North College Avenue",
-      "city": "Fayetteville",
-      "state": "AR",
-      "zip": "72703",
-      "lat": 36.12,
-      "lng": -94.04,
-      "summary": "In-person Yoga - no experience needed",
-      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
-    },
-    {
-      "id": "va-gov-91926-2026-10-19",
-      "title": "Walk-In Flu Shots Available During Regular Business Hours",
-      "date": "2026-10-19",
-      "time": "7:30 AM – 3:30 PM ET",
-      "venue": "Rochester Calkins VA Clinic, VA Finger Lakes Medical Centers and Clinics",
-      "street": "260 Calkins Road",
-      "city": "Rochester",
-      "state": "NY",
-      "zip": "14623",
-      "lat": 43.09,
-      "lng": -77.64,
-      "url": "https://www.va.gov/finger-lakes-health-care/events/91926"
-    },
-    {
-      "id": "va-gov-85230-2026-10-19",
-      "title": "Women Veterans' Social at the Peer Center",
-      "date": "2026-10-19",
-      "time": "5:00 PM – 6:30 PM PT",
-      "venue": "West Los Angeles VA Medical Center, Peer Center, Building 306",
-      "street": "11301 Wilshire Boulevard",
-      "city": "Los Angeles",
-      "state": "CA",
-      "zip": "90073",
-      "lat": 34.06,
-      "lng": -118.46,
-      "url": "https://www.va.gov/greater-los-angeles-health-care/events/85230"
-    },
-    {
       "id": "va-gov-91069-2026-10-20",
       "title": "2026 Veteran Walk-in Flu Vaccination Clinic",
       "date": "2026-10-20",
@@ -2094,6 +1839,20 @@
       "url": "https://www.va.gov/tuscaloosa-health-care/events/48451"
     },
     {
+      "id": "va-4309",
+      "title": "Sioux Falls VA Women Veteran Tele-Town Hall",
+      "date": "2026-10-21",
+      "time": "6:00 PM – 7:00 PM CT",
+      "street": "2501 West 22nd Street",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zip": "57105",
+      "lat": 43.53125,
+      "lng": -96.75583,
+      "summary": "The Sioux Falls VA Health Care System Women Veterans Program is hosting a tele-town hall on October 21, 2026. This is an opportunity for our Women Veterans Program to update and educated Women Veterans about services and programs available to them. This will also be an…",
+      "url": "https://discover.va.gov/events/sioux-falls-va-women-veteran-tele-town-hall/"
+    },
+    {
       "id": "va-gov-90738-2026-10-21",
       "title": "Sussex County VA Clinic Information Session",
       "date": "2026-10-21",
@@ -2627,6 +2386,20 @@
       "lng": -87.98,
       "summary": "All are welcome to participate.",
       "url": "https://www.va.gov/milwaukee-health-care/events/91669"
+    },
+    {
+      "id": "va-gov-92405-2026-10-22",
+      "title": "Mugs and Muffins for the Soul - Quarterly Women Veterans Group",
+      "date": "2026-10-22",
+      "time": "9:00 AM – 10:00 AM CT",
+      "venue": "Tuscaloosa VA Medical Center, Building 145 - Liberty Center",
+      "street": "3701 Loop Road East",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35404",
+      "lat": 33.22,
+      "lng": -87.48,
+      "url": "https://www.va.gov/tuscaloosa-health-care/events/92405"
     },
     {
       "id": "va-gov-85973-2026-10-22",
@@ -3987,19 +3760,18 @@
       "url": "https://www.va.gov/manchester-health-care/events/92111"
     },
     {
-      "id": "va-gov-91710-2026-10-24",
-      "title": "Trunk or Treat at Canandaigua VAMC!",
+      "id": "va-4310",
+      "title": "Trunk or Treat",
       "date": "2026-10-24",
       "time": "1:00 PM – 3:00 PM ET",
-      "venue": "Canandaigua VA Medical Center, Main Outpatient Clinic",
       "street": "400 Fort Hill Avenue",
       "city": "Canandaigua",
       "state": "NY",
       "zip": "14424",
-      "lat": 42.86,
-      "lng": -77.3,
-      "summary": "Trunk or Treat at Canandaigua VA Medical Center",
-      "url": "https://www.va.gov/finger-lakes-health-care/events/91710"
+      "lat": 42.90133,
+      "lng": -77.26932,
+      "summary": "🎃 Trunk or Treat at Canandaigua VA Medical Center! 🎃 Get ready for some spooky fun with the VA Employee Association, proudly partnering with Compeer Corps and Ontario Cares! Everyone is invited, bring your friends and family! We’re looking for trunks and treaters, come in…",
+      "url": "https://discover.va.gov/events/trunk-or-treat/"
     },
     {
       "id": "va-gov-90801-2026-10-24",
@@ -4198,6 +3970,21 @@
       "url": "https://www.va.gov/salem-health-care/events/91639"
     },
     {
+      "id": "va-gov-88497-2026-10-26",
+      "title": "In-Person Veteran Yoga Class",
+      "date": "2026-10-26",
+      "time": "10:00 AM – 11:30 AM CT",
+      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
+      "street": "1100 North College Avenue",
+      "city": "Fayetteville",
+      "state": "AR",
+      "zip": "72703",
+      "lat": 36.12,
+      "lng": -94.04,
+      "summary": "In-person Yoga - no experience needed",
+      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
+    },
+    {
       "id": "va-4207",
       "title": "North Valley Senior Center Veterans Outreach",
       "date": "2026-10-26",
@@ -4252,21 +4039,6 @@
       "lat": 39.49,
       "lng": -75,
       "url": "https://www.va.gov/wilmington-health-care/events/90910"
-    },
-    {
-      "id": "va-gov-88497-2026-10-26",
-      "title": "Veteran Yoga",
-      "date": "2026-10-26",
-      "time": "10:00 AM – 11:00 AM CT",
-      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
-      "street": "1100 North College Avenue",
-      "city": "Fayetteville",
-      "state": "AR",
-      "zip": "72703",
-      "lat": 36.12,
-      "lng": -94.04,
-      "summary": "In-person Yoga - no experience needed",
-      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
     },
     {
       "id": "va-gov-51007-2026-10-26",
@@ -5720,6 +5492,20 @@
       "url": "https://discover.va.gov/events/3rd-annual-project-connect-sikeston/"
     },
     {
+      "id": "va-gov-92407-2026-10-30",
+      "title": "BraveHer Women Veterans Resource Fair in Tuscaloosa",
+      "date": "2026-10-30",
+      "time": "11:00 AM – 1:30 PM CT",
+      "venue": "Tuscaloosa VA Medical Center, Building 137, 1st Floor, Sports Atrium",
+      "street": "3701 Loop Road East",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35404",
+      "lat": 33.22,
+      "lng": -87.48,
+      "url": "https://www.va.gov/tuscaloosa-health-care/events/92407"
+    },
+    {
       "id": "va-gov-90840-2026-10-30",
       "title": "Flu Shot Clinic",
       "date": "2026-10-30",
@@ -6115,6 +5901,21 @@
       "url": "https://www.va.gov/hines-health-care/events/86113"
     },
     {
+      "id": "va-gov-88497-2026-11-02",
+      "title": "In-Person Veteran Yoga Class",
+      "date": "2026-11-02",
+      "time": "10:00 AM – 11:30 AM CT",
+      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
+      "street": "1100 North College Avenue",
+      "city": "Fayetteville",
+      "state": "AR",
+      "zip": "72703",
+      "lat": 36.12,
+      "lng": -94.04,
+      "summary": "In-person Yoga - no experience needed",
+      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
+    },
+    {
       "id": "va-4291",
       "title": "Spiro Vet Center Outreach",
       "date": "2026-11-02",
@@ -6141,21 +5942,6 @@
       "lat": 29.47,
       "lng": -98.53,
       "url": "https://www.va.gov/south-texas-health-care/events/82332"
-    },
-    {
-      "id": "va-gov-88497-2026-11-02",
-      "title": "Veteran Yoga",
-      "date": "2026-11-02",
-      "time": "10:00 AM – 11:00 AM CT",
-      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
-      "street": "1100 North College Avenue",
-      "city": "Fayetteville",
-      "state": "AR",
-      "zip": "72703",
-      "lat": 36.12,
-      "lng": -94.04,
-      "summary": "In-person Yoga - no experience needed",
-      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
     },
     {
       "id": "va-gov-91926-2026-11-02",
@@ -7682,6 +7468,21 @@
       "url": "https://www.va.gov/pacific-islands-health-care/events/91620"
     },
     {
+      "id": "va-4308",
+      "title": "Leyden Township Veteran Resource Fair – November 7",
+      "date": "2026-11-07",
+      "time": "10:00 AM – 2:00 PM CT",
+      "venue": "Carl Fiorito Senior Center",
+      "street": "2601 North Mannheim Road",
+      "city": "Franklin Park",
+      "state": "IL",
+      "zip": "60131",
+      "lat": 41.92567,
+      "lng": -87.88393,
+      "summary": "Leyden Township will be hosting a veteran resource fair. Hines Outreach will answer VA related questions and assist with healthcare enrollments.",
+      "url": "https://discover.va.gov/events/leyden-township-veteran-resource-fair-november-7/"
+    },
+    {
       "id": "va-4101",
       "title": "RCS D2 325 Tallahassee Vet Center – The Chapel’s 2026 Health & Wellness Fair",
       "date": "2026-11-07",
@@ -7808,6 +7609,20 @@
       "url": "https://discover.va.gov/events/cavc-veteran-resource-fair-and-claims-clinic/"
     },
     {
+      "id": "va-gov-92396-2026-11-09",
+      "title": "Colmery-O'Neil Blue Bench Initiative",
+      "date": "2026-11-09",
+      "time": "1:00 PM – 2:00 PM CT",
+      "venue": "Colmery-O'Neil Veterans' Administration Medical Center, Main Entrance Building 1",
+      "street": "2200 Southwest Gage Boulevard",
+      "city": "Topeka",
+      "state": "KS",
+      "zip": "66622",
+      "lat": 39.03,
+      "lng": -95.72,
+      "url": "https://www.va.gov/eastern-kansas-health-care/events/92396"
+    },
+    {
       "id": "va-gov-88979-2026-11-09",
       "title": "Federal EHR Breakfast Briefing- Wausau VA Clinic",
       "date": "2026-11-09",
@@ -7838,9 +7653,9 @@
     },
     {
       "id": "va-gov-88497-2026-11-09",
-      "title": "Veteran Yoga",
+      "title": "In-Person Veteran Yoga Class",
       "date": "2026-11-09",
-      "time": "10:00 AM – 11:00 AM CT",
+      "time": "10:00 AM – 11:30 AM CT",
       "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
       "street": "1100 North College Avenue",
       "city": "Fayetteville",
@@ -8131,6 +7946,20 @@
       "lat": 41.84,
       "lng": -71.44,
       "url": "https://www.va.gov/providence-health-care/events/91499"
+    },
+    {
+      "id": "va-gov-92398-2026-11-10",
+      "title": "Leavenworth Blue Bench Initiative",
+      "date": "2026-11-10",
+      "time": "1:00 PM – 2:00 PM CT",
+      "venue": "Dwight D. Eisenhower Department of Veterans Affairs Medical Center, Main Entrance of the Hospital",
+      "street": "4101 4th Street Trafficway",
+      "city": "Leavenworth",
+      "state": "KS",
+      "zip": "66048",
+      "lat": 39.27,
+      "lng": -94.98,
+      "url": "https://www.va.gov/eastern-kansas-health-care/events/92398"
     },
     {
       "id": "va-gov-85363-2026-11-10",
@@ -9048,6 +8877,21 @@
       "url": "https://discover.va.gov/events/veterans-appreciation-car-show-bbq/"
     },
     {
+      "id": "va-gov-92409-2026-11-14",
+      "title": "Veterans Day Salute to Service Car Show",
+      "date": "2026-11-14",
+      "time": "10:00 AM – 1:00 PM CT",
+      "venue": "G.V. (Sonny) Montgomery Department of Veterans Affairs Medical Center, Front Entrance",
+      "street": "1500 East Woodrow Wilson Avenue",
+      "city": "Jackson",
+      "state": "MS",
+      "zip": "39216",
+      "lat": 32.34,
+      "lng": -90.16,
+      "summary": "Celebrate Veterans at Jackson VA’s Car Show November 14, 2026, from 10 a.m. to 1 p.m. Enjoy cars, food trucks and connections to VA services.",
+      "url": "https://www.va.gov/jackson-health-care/events/92409"
+    },
+    {
       "id": "va-gov-87640-2026-11-15",
       "title": "Weekly Chapel Service",
       "date": "2026-11-15",
@@ -9106,6 +8950,21 @@
       "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/91010"
     },
     {
+      "id": "va-gov-88497-2026-11-16",
+      "title": "In-Person Veteran Yoga Class",
+      "date": "2026-11-16",
+      "time": "10:00 AM – 11:30 AM CT",
+      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
+      "street": "1100 North College Avenue",
+      "city": "Fayetteville",
+      "state": "AR",
+      "zip": "72703",
+      "lat": 36.12,
+      "lng": -94.04,
+      "summary": "In-person Yoga - no experience needed",
+      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
+    },
+    {
       "id": "va-gov-88165-2026-11-16",
       "title": "Veteran Orientation",
       "date": "2026-11-16",
@@ -9118,21 +8977,6 @@
       "lat": 42.11,
       "lng": -80.05,
       "url": "https://www.va.gov/erie-health-care/events/88165"
-    },
-    {
-      "id": "va-gov-88497-2026-11-16",
-      "title": "Veteran Yoga",
-      "date": "2026-11-16",
-      "time": "10:00 AM – 11:00 AM CT",
-      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
-      "street": "1100 North College Avenue",
-      "city": "Fayetteville",
-      "state": "AR",
-      "zip": "72703",
-      "lat": 36.12,
-      "lng": -94.04,
-      "summary": "In-person Yoga - no experience needed",
-      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
     },
     {
       "id": "va-gov-91926-2026-11-16",
@@ -9587,7 +9431,7 @@
       "url": "https://www.va.gov/milwaukee-health-care/events/83102"
     },
     {
-      "id": "va-gov-91307-2026-11-18",
+      "id": "va-4307",
       "title": "Veterans Café Coming to North Smithfield",
       "date": "2026-11-18",
       "time": "11:00 AM – 1:00 PM ET",
@@ -9595,7 +9439,11 @@
       "street": "13 Main Street",
       "city": "North Smithfield",
       "state": "RI",
-      "url": "https://www.va.gov/providence-health-care/events/91307"
+      "zip": "02896",
+      "lat": 42.00085,
+      "lng": -71.58116,
+      "summary": "Join VA Providence for Veterans Café Wednesday, November 18, from 11:00 a.m.–1:00 p.m. at Scouters Hall, 13 Main Street, North Smithfield, RI 02896. Open to all Veterans, Veterans Café combines a social dining experience with opportunities to connect with: VA medical care • VA…",
+      "url": "https://discover.va.gov/events/veterans-cafe-coming-to-north-smithfield/"
     },
     {
       "id": "va-gov-91926-2026-11-18",
@@ -10136,6 +9984,21 @@
       "url": "https://www.va.gov/greater-los-angeles-health-care/events/75680"
     },
     {
+      "id": "va-gov-88497-2026-11-23",
+      "title": "In-Person Veteran Yoga Class",
+      "date": "2026-11-23",
+      "time": "10:00 AM – 11:30 AM CT",
+      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
+      "street": "1100 North College Avenue",
+      "city": "Fayetteville",
+      "state": "AR",
+      "zip": "72703",
+      "lat": 36.12,
+      "lng": -94.04,
+      "summary": "In-person Yoga - no experience needed",
+      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
+    },
+    {
       "id": "va-gov-90912-2026-11-23",
       "title": "VETERAN INFORMATION SESSION",
       "date": "2026-11-23",
@@ -10148,21 +10011,6 @@
       "lat": 39.49,
       "lng": -75,
       "url": "https://www.va.gov/wilmington-health-care/events/90912"
-    },
-    {
-      "id": "va-gov-88497-2026-11-23",
-      "title": "Veteran Yoga",
-      "date": "2026-11-23",
-      "time": "10:00 AM – 11:00 AM CT",
-      "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
-      "street": "1100 North College Avenue",
-      "city": "Fayetteville",
-      "state": "AR",
-      "zip": "72703",
-      "lat": 36.12,
-      "lng": -94.04,
-      "summary": "In-person Yoga - no experience needed",
-      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
     },
     {
       "id": "va-gov-51007-2026-11-23",
@@ -10742,9 +10590,9 @@
     },
     {
       "id": "va-gov-88497-2026-11-30",
-      "title": "Veteran Yoga",
+      "title": "In-Person Veteran Yoga Class",
       "date": "2026-11-30",
-      "time": "10:00 AM – 11:00 AM CT",
+      "time": "10:00 AM – 11:30 AM CT",
       "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
       "street": "1100 North College Avenue",
       "city": "Fayetteville",
@@ -11407,9 +11255,9 @@
     },
     {
       "id": "va-gov-88497-2026-12-07",
-      "title": "Veteran Yoga",
+      "title": "In-Person Veteran Yoga Class",
       "date": "2026-12-07",
-      "time": "10:00 AM – 11:00 AM CT",
+      "time": "10:00 AM – 11:30 AM CT",
       "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
       "street": "1100 North College Avenue",
       "city": "Fayetteville",
@@ -11962,9 +11810,9 @@
     },
     {
       "id": "va-gov-88497-2026-12-14",
-      "title": "Veteran Yoga",
+      "title": "In-Person Veteran Yoga Class",
       "date": "2026-12-14",
-      "time": "10:00 AM – 11:00 AM CT",
+      "time": "10:00 AM – 11:30 AM CT",
       "venue": "Fayetteville VA Medical Center, Mental Health Building 44, Room 245",
       "street": "1100 North College Avenue",
       "city": "Fayetteville",
@@ -12671,6 +12519,21 @@
       "url": "https://discover.va.gov/events/disabled-american-veterans-information-seminar-veteran-outreach-event/"
     },
     {
+      "id": "va-4305",
+      "title": "VA Providence Spring VetConnect",
+      "date": "2027-04-14",
+      "time": "4:00 PM – 6:00 PM ET",
+      "venue": "VA Providence Healthcare System",
+      "street": "830 Chalkstone Avenue",
+      "city": "Providence",
+      "state": "RI",
+      "zip": "02908",
+      "lat": 41.8318,
+      "lng": -71.43277,
+      "summary": "VA Providence Healthcare System will host its spring VetConnect on Wednesday, April 14, from 4–6 p.m. Veterans and their families can hear directly from VA Providence leadership, receive updates on health care services and programs, and participate in an open…",
+      "url": "https://discover.va.gov/events/va-providence-spring-vetconnect/"
+    },
+    {
       "id": "va-4294",
       "title": "Hyannis VA Clinic VetConnect",
       "date": "2027-06-16",
@@ -12701,7 +12564,7 @@
       "url": "https://discover.va.gov/events/va-providence-summer-vetconnect/"
     }
   ],
-  "vaEventsUpdatedAt": "2026-10-19T04:07:56.529Z",
+  "vaEventsUpdatedAt": "2026-10-20T04:07:41.675Z",
   "vaEventsSource": "https://discover.va.gov/events/wp-json/wp/v2/events",
   "vaEventsSources": [
     "https://discover.va.gov/events/wp-json/wp/v2/events",
