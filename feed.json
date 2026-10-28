@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T04:09:42.239Z",
+  "generatedAt": "2026-10-28T04:02:13.760Z",
   "events": [
     {
       "id": "vhv-evening-2026-10-08",
@@ -995,401 +995,6 @@
   ],
   "vaEvents": [
     {
-      "id": "va-gov-91069-2026-10-27",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic",
-      "date": "2026-10-27",
-      "time": "8:00 AM – 3:00 PM CT",
-      "venue": "Wichita VA Regional Benefit Office at Robert J. Dole VA Medical Center, Building 3, first floor lobby",
-      "street": "9111 E. Douglas Ave, Suite 200",
-      "city": "Wichita",
-      "state": "KS",
-      "zip": "67207",
-      "lat": 37.67,
-      "lng": -97.23,
-      "url": "https://www.va.gov/wichita-health-care/events/91069"
-    },
-    {
-      "id": "va-gov-91071-2026-10-27",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic - Hays CBOC",
-      "date": "2026-10-27",
-      "time": "1:30 PM – 3:30 PM CT",
-      "venue": "Hays VA Clinic",
-      "street": "4107 Vine Street",
-      "city": "Hays",
-      "state": "KS",
-      "zip": "67601",
-      "lat": 38.87,
-      "lng": -99.34,
-      "url": "https://www.va.gov/wichita-health-care/events/91071"
-    },
-    {
-      "id": "va-gov-91073-2026-10-27",
-      "title": "2026 Veteran Walk-in Flu Vaccination Clinic - Parsons CBOC",
-      "date": "2026-10-27",
-      "time": "1:30 PM – 3:30 PM CT",
-      "venue": "Parsons VA Clinic",
-      "street": "1907 Harding Drive",
-      "city": "Parsons",
-      "state": "KS",
-      "zip": "67357",
-      "lat": 37.34,
-      "lng": -95.25,
-      "url": "https://www.va.gov/wichita-health-care/events/91073"
-    },
-    {
-      "id": "va-gov-90991-2026-10-27",
-      "title": "A Safe Place for Veterans Under 40 Group",
-      "date": "2026-10-27",
-      "time": "1:00 PM – 2:00 PM ET",
-      "venue": "Chalmers P. Wylie Veterans Outpatient Clinic, Virtual Session",
-      "street": "420 North James Road",
-      "city": "Columbus",
-      "state": "OH",
-      "zip": "43219",
-      "lat": 40.01,
-      "lng": -82.92,
-      "url": "https://www.va.gov/central-ohio-health-care/events/90991"
-    },
-    {
-      "id": "va-gov-85708-2026-10-27",
-      "title": "Aging Successfully: A Multi-Week Group Experience",
-      "date": "2026-10-27",
-      "time": "1:00 PM – 2:00 PM PT",
-      "venue": "Major General William H. Gourley VA-DoD Outpatient Clinic, Second floor, group room 4",
-      "street": "201 9th Street",
-      "city": "Marina",
-      "state": "CA",
-      "zip": "93933",
-      "lat": 36.68,
-      "lng": -121.78,
-      "summary": "Join Our “Aging Successfully” Multi-Series Group",
-      "url": "https://www.va.gov/palo-alto-health-care/events/85708"
-    },
-    {
-      "id": "va-gov-86302-2026-10-27",
-      "title": "Breastfeeding Support “Baby Café” (Jewell Clinic)",
-      "date": "2026-10-27",
-      "time": "1:00 PM – 2:00 PM MT",
-      "venue": "Jewell VA Clinic",
-      "street": "14400 East Jewell Avenue",
-      "city": "Aurora",
-      "state": "CO",
-      "zip": "80012",
-      "lat": 39.7,
-      "lng": -104.84,
-      "url": "https://www.va.gov/eastern-colorado-health-care/events/86302"
-    },
-    {
-      "id": "va-gov-86397-2026-10-27",
-      "title": "CalFresh Enrollment Clinic",
-      "date": "2026-10-27",
-      "time": "7:00 AM – 3:30 PM PT",
-      "venue": "West Los Angeles VA Medical Center, Bldg. 500, Room 1613",
-      "street": "11301 Wilshire Boulevard",
-      "city": "Los Angeles",
-      "state": "CA",
-      "zip": "90073",
-      "lat": 34.06,
-      "lng": -118.46,
-      "url": "https://www.va.gov/greater-los-angeles-health-care/events/86397"
-    },
-    {
-      "id": "va-3780",
-      "title": "Columbia VA Health Care System 2026 HCHV Homeless Veterans Stand Down.",
-      "date": "2026-10-27",
-      "time": "9:00 AM – 1:00 PM ET",
-      "street": "6439 Garners Ferry Road",
-      "city": "Columbia",
-      "state": "SC",
-      "zip": "29209",
-      "lat": 33.97526,
-      "lng": -80.95943,
-      "summary": "20256 HCHV Homeless Veterans Stand Down. This year’s HCHV Stand Down event will take place on October 27, 2026, from 9:00am to 1:00pm, in Building 106, Room D-100 and the courtyard.",
-      "url": "https://discover.va.gov/events/columbia-va-health-care-system-2026-hchv-homeless-veterans-stand-down/"
-    },
-    {
-      "id": "va-gov-90370-2026-10-27",
-      "title": "Conway VetTogether: Veteran Coffee Social",
-      "date": "2026-10-27",
-      "time": "10:00 AM – 11:15 AM ET",
-      "venue": "Gibson Center",
-      "street": "14 Grove Street",
-      "city": "Conway",
-      "state": "NH",
-      "summary": "Come for the coffee, stay for the connections!",
-      "url": "https://www.va.gov/manchester-health-care/events/90370"
-    },
-    {
-      "id": "va-gov-72029-2026-10-27",
-      "title": "Creative Arts Class",
-      "date": "2026-10-27",
-      "time": "1:30 PM – 3:30 PM CT",
-      "venue": "Birmingham East VA Clinic, Room 1305 (Day Room)",
-      "street": "7901 Crestwood Boulevard",
-      "city": "Irondale",
-      "state": "AL",
-      "zip": "35210",
-      "lat": 33.54,
-      "lng": -86.67,
-      "summary": "Birmingham VA East Creative Arts Class",
-      "url": "https://www.va.gov/birmingham-health-care/events/72029"
-    },
-    {
-      "id": "va-gov-77152-2026-10-27",
-      "title": "Diabetes Self-Management Education and Support (DSMES)",
-      "date": "2026-10-27",
-      "time": "10:00 AM – 12:00 PM ET",
-      "venue": "James H. Quillen Department of Veterans Affairs Medical Center, Building 160, Second Floor, Room N234",
-      "street": "Corner of Lamont Street and Veterans Way",
-      "city": "Mountain Home",
-      "state": "TN",
-      "zip": "37684",
-      "lat": 36.45,
-      "lng": -81.82,
-      "summary": "This group class is offered most Tuesday mornings at Mountain Home. Ask your primary care provider for a referral to the diabetes team!",
-      "url": "https://www.va.gov/mountain-home-health-care/events/77152"
-    },
-    {
-      "id": "va-4262",
-      "title": "Elko Veteran Enrollment Fair",
-      "date": "2026-10-27",
-      "time": "9:00 AM – 3:00 PM PT",
-      "street": "2767 Mountain City Highway",
-      "city": "Elko",
-      "state": "NV",
-      "zip": "89801",
-      "lat": 40.8384,
-      "lng": -115.79419,
-      "url": "https://discover.va.gov/events/elko-veteran-enrollment-fair/"
-    },
-    {
-      "id": "va-gov-92070-2026-10-27",
-      "title": "Enrollment and Eligibility Fair",
-      "date": "2026-10-27",
-      "time": "10:00 AM – 4:00 PM PT",
-      "venue": "Elko VA Clinic",
-      "street": "2767 Mountain City Highway",
-      "city": "Elko",
-      "state": "NV",
-      "zip": "89801",
-      "lat": 41.17,
-      "lng": -115.76,
-      "summary": "Elko VA Clinic Enrollment Fair",
-      "url": "https://www.va.gov/salt-lake-city-health-care/events/92070"
-    },
-    {
-      "id": "va-gov-91639-2026-10-27",
-      "title": "Flu vaccinations 2026",
-      "date": "2026-10-27",
-      "time": "8:30 AM – 3:00 PM ET",
-      "venue": "Salem VA Medical Center, Lobby",
-      "street": "1970 Roanoke Boulevard",
-      "city": "Salem",
-      "state": "VA",
-      "zip": "24153",
-      "lat": 37.3,
-      "lng": -80.11,
-      "url": "https://www.va.gov/salem-health-care/events/91639"
-    },
-    {
-      "id": "va-gov-91496-2026-10-27",
-      "title": "Healthy Teaching Kitchen: Cost-Friendly Grocery Shopping",
-      "date": "2026-10-27",
-      "time": "10:30 AM – 11:30 AM ET",
-      "venue": "Providence VA Medical Center, Main Building • 4th Floor Nutrition",
-      "street": "830 Chalkstone Avenue",
-      "city": "Providence",
-      "state": "RI",
-      "zip": "02908",
-      "lat": 41.84,
-      "lng": -71.44,
-      "url": "https://www.va.gov/providence-health-care/events/91496"
-    },
-    {
-      "id": "va-gov-86732-2026-10-27",
-      "title": "In-Person Caregiver Support Group",
-      "date": "2026-10-27",
-      "time": "2:30 PM – 3:30 PM CT",
-      "venue": "Sioux Falls Vet Center",
-      "street": "5020 S. Broadband Lane, Suite 100",
-      "city": "Sioux Falls",
-      "state": "SD",
-      "zip": "57108",
-      "lat": 43.48,
-      "lng": -96.7,
-      "summary": "The Caregiver Support Group is designed to facilitate and support Caregivers connecting with others who feel stressed, overwhelmed or alone in their role.",
-      "url": "https://www.va.gov/sioux-falls-health-care/events/86732"
-    },
-    {
-      "id": "va-gov-85363-2026-10-27",
-      "title": "Legal Assistance for Veterans and Dependents",
-      "date": "2026-10-27",
-      "time": "8:00 AM – 2:00 PM CT",
-      "venue": "Michael E. DeBakey Department of Veterans Affairs Medical Center, Building 108A, first floor",
-      "street": "2002 Holcombe Boulevard",
-      "city": "Houston",
-      "state": "TX",
-      "zip": "77030",
-      "lat": 29.71,
-      "lng": -95.4,
-      "url": "https://www.va.gov/houston-health-care/events/85363"
-    },
-    {
-      "id": "va-4323",
-      "title": "Lowell Vet Center Trunk or Treat",
-      "date": "2026-10-27",
-      "time": "4:00 PM – 7:00 PM ET",
-      "street": "90 Pawtucket Boulevard",
-      "city": "Tyngsboro",
-      "state": "MA",
-      "zip": "01879",
-      "lat": 42.66854,
-      "lng": -71.40636,
-      "summary": "Lowell Vet Center in partnership with Community organizations will provide a free Trunk or Treat event to Veterans, service members, and their families.",
-      "url": "https://discover.va.gov/events/lowell-vet-center-trunk-or-treat/"
-    },
-    {
-      "id": "va-gov-92261-2026-10-27",
-      "title": "Trunk or Treat - Jamaica Plain campus",
-      "date": "2026-10-27",
-      "time": "10:00 AM – 1:00 PM ET",
-      "venue": "Jamaica Plain VA Medical Center",
-      "street": "150 South Huntington Avenue",
-      "city": "Boston",
-      "state": "MA",
-      "zip": "02130",
-      "lat": 42.31,
-      "lng": -71.11,
-      "url": "https://www.va.gov/boston-health-care/events/92261"
-    },
-    {
-      "id": "va-gov-52583-2026-10-27",
-      "title": "Tuesday Yoga Class Schedule",
-      "date": "2026-10-27",
-      "time": "11:00 AM – 12:00 PM CT",
-      "venue": "Tuscaloosa VA Medical Center, TVAMC Sports Atrium, Building 137",
-      "street": "3701 Loop Road East",
-      "city": "Tuscaloosa",
-      "state": "AL",
-      "zip": "35404",
-      "lat": 33.22,
-      "lng": -87.48,
-      "url": "https://www.va.gov/tuscaloosa-health-care/events/52583"
-    },
-    {
-      "id": "va-gov-82299-2026-10-27",
-      "title": "Veteran Flu Clinic - Audie L. Murphy Memorial Veterans Hospital",
-      "date": "2026-10-27",
-      "time": "8:00 AM – 2:00 PM CT",
-      "venue": "Audie L. Murphy Memorial Veterans' Hospital, Main Lobby",
-      "street": "7400 Merton Minter Boulevard",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78229",
-      "lat": 29.51,
-      "lng": -98.58,
-      "url": "https://www.va.gov/south-texas-health-care/events/82299"
-    },
-    {
-      "id": "va-gov-82329-2026-10-27",
-      "title": "Veteran Flu Clinic - Kerrville VA Medical Center",
-      "date": "2026-10-27",
-      "time": "9:00 AM – 2:00 PM CT",
-      "venue": "Kerrville VA Medical Center, Veterans Canteen Service, Basement Level",
-      "street": "3600 Memorial Boulevard",
-      "city": "Kerrville",
-      "state": "TX",
-      "zip": "78028",
-      "lat": 30.04,
-      "lng": -99.17,
-      "url": "https://www.va.gov/south-texas-health-care/events/82329"
-    },
-    {
-      "id": "va-gov-82332-2026-10-27",
-      "title": "Veteran Flu Clinic - Outpatient Clinics",
-      "date": "2026-10-27",
-      "time": "9:00 AM – 3:00 PM CT",
-      "venue": "Balcones Heights VA Clinic",
-      "street": "4522 Fredericksburg Road, Suites A10, A88, A100",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78201",
-      "lat": 29.47,
-      "lng": -98.53,
-      "url": "https://www.va.gov/south-texas-health-care/events/82332"
-    },
-    {
-      "id": "va-gov-82331-2026-10-27",
-      "title": "Veteran Flu Clinic - San Antonio Northwest Health Care Center",
-      "date": "2026-10-27",
-      "time": "9:00 AM – 3:00 PM CT",
-      "venue": "North West San Antonio VA Clinic, 1st Floor, 1B124",
-      "street": "9939 State Highway 151",
-      "city": "San Antonio",
-      "state": "TX",
-      "zip": "78251",
-      "lat": 29.46,
-      "lng": -98.68,
-      "url": "https://www.va.gov/south-texas-health-care/events/82331"
-    },
-    {
-      "id": "va-gov-87962-2026-10-27",
-      "title": "Veteran Legal Clinic",
-      "date": "2026-10-27",
-      "time": "11:00 AM – 4:00 PM ET",
-      "venue": "Fort Wayne VA Medical Center, Auditorium and Annex",
-      "street": "2121 Lake Avenue",
-      "city": "Fort Wayne",
-      "state": "IN",
-      "zip": "46805",
-      "lat": 41.1,
-      "lng": -85.12,
-      "url": "https://www.va.gov/northern-indiana-health-care/events/87962"
-    },
-    {
-      "id": "va-gov-88498-2026-10-27",
-      "title": "Veterans' Healing Harvest Garden - with Master Gardeners",
-      "date": "2026-10-27",
-      "time": "9:00 AM – 11:00 AM CT",
-      "venue": "Fayetteville VA Medical Center, Outside VHSO Campus, Garden",
-      "street": "1100 North College Avenue",
-      "city": "Fayetteville",
-      "state": "AR",
-      "zip": "72703",
-      "lat": 36.12,
-      "lng": -94.04,
-      "summary": "Learn from Master Gardeners",
-      "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88498"
-    },
-    {
-      "id": "va-gov-91926-2026-10-27",
-      "title": "Walk-In Flu Shots Available During Regular Business Hours",
-      "date": "2026-10-27",
-      "time": "7:30 AM – 3:30 PM ET",
-      "venue": "Rochester Calkins VA Clinic, VA Finger Lakes Medical Centers and Clinics",
-      "street": "260 Calkins Road",
-      "city": "Rochester",
-      "state": "NY",
-      "zip": "14623",
-      "lat": 43.09,
-      "lng": -77.64,
-      "url": "https://www.va.gov/finger-lakes-health-care/events/91926"
-    },
-    {
-      "id": "va-gov-89743-2026-10-27",
-      "title": "Women Veteran Only Therapeutic Writing Class",
-      "date": "2026-10-27",
-      "time": "4:30 PM – 6:00 PM ET",
-      "venue": "Charles George Department of Veterans Affairs Medical Center, Building 47 Basement, Learning Resources Hallway",
-      "street": "1100 Tunnel Road",
-      "city": "Asheville",
-      "state": "NC",
-      "zip": "28805",
-      "lat": 35.61,
-      "lng": -82.48,
-      "url": "https://www.va.gov/asheville-health-care/events/89743"
-    },
-    {
       "id": "va-gov-91069-2026-10-28",
       "title": "2026 Veteran Walk-in Flu Vaccination Clinic",
       "date": "2026-10-28",
@@ -1533,7 +1138,7 @@
     },
     {
       "id": "va-gov-92622-2026-10-28",
-      "title": "Caregiver Resource Fair",
+      "title": "Caregiver Resource Fair - Oconomowoc",
       "date": "2026-10-28",
       "time": "1:00 PM – 3:00 PM CT",
       "venue": "Oconomowoc VA Clinic",
@@ -1684,6 +1289,17 @@
       "lng": -159.35272,
       "summary": "VA Pacific Islands Health Care System (VAPIHCS) will hold a PACT Act Registration and Community Call event from 12:00 p.m. to 6:00 p.m. October 28, 2026, at the Kauai Veterans Center 3215 Kauai Veterans Memorial Hwy. Lihue, Hawaii 96766.",
       "url": "https://discover.va.gov/events/kauai-community-call-and-veterans-town-hall-meeting/"
+    },
+    {
+      "id": "va-gov-92658-2026-10-28",
+      "title": "Last Roll Call & Remembrance",
+      "date": "2026-10-28",
+      "time": "11:00 AM PT",
+      "venue": "Ventura Veterans Affairs",
+      "street": "5250 Ralston St.",
+      "city": "Ventura",
+      "state": "CA",
+      "url": "https://www.va.gov/greater-los-angeles-health-care/events/92658"
     },
     {
       "id": "va-gov-80764-2026-10-28",
@@ -2182,6 +1798,17 @@
       "url": "https://www.va.gov/salem-health-care/events/91639"
     },
     {
+      "id": "va-gov-92659-2026-10-29",
+      "title": "Last Roll Call & Remembrance",
+      "date": "2026-10-29",
+      "time": "11:00 AM PT",
+      "venue": "Bakersfield Veterans Affairs Jastro Park",
+      "street": "2900 Truxtun Ave.",
+      "city": "Bakersfield",
+      "state": "CA",
+      "url": "https://www.va.gov/greater-los-angeles-health-care/events/92659"
+    },
+    {
       "id": "va-gov-91147-2026-10-29",
       "title": "Minneapolis VA Medical Center & CBOC's Flu Shot Clinic",
       "date": "2026-10-29",
@@ -2651,6 +2278,17 @@
       "lat": 41.84,
       "lng": -71.44,
       "url": "https://www.va.gov/providence-health-care/events/91504"
+    },
+    {
+      "id": "va-gov-92665-2026-10-30",
+      "title": "Last Roll Call & Remembrance",
+      "date": "2026-10-30",
+      "time": "11:00 AM PT",
+      "venue": "Antelope Valley Veterans Affairs",
+      "street": "44439 17th St.",
+      "city": "Lancaster",
+      "state": "CA",
+      "url": "https://www.va.gov/greater-los-angeles-health-care/events/92665"
     },
     {
       "id": "va-4314",
@@ -3492,16 +3130,19 @@
       "url": "https://discover.va.gov/events/veteran-resource-and-hiring-fair/"
     },
     {
-      "id": "va-gov-92529-2026-11-03",
+      "id": "va-4352",
       "title": "Veteran Services Event (Bouse VFW)",
       "date": "2026-11-03",
-      "time": "9:00 AM – 3:00 PM MT",
+      "time": "9:00 AM – 3:00 PM PT",
       "venue": "VFW Post 2357",
       "street": "45190 Hwy 72",
       "city": "Bouse",
       "state": "AZ",
-      "summary": "Veteran services event taking place at VFW Post 2357 in Bouse, AZ, on November 3, 2026.",
-      "url": "https://www.va.gov/northern-arizona-health-care/events/92529"
+      "zip": "85325",
+      "lat": 33.91185,
+      "lng": -113.9897,
+      "summary": "Veterans, their families, and caregivers are invited to attend this special Veteran Services Event. Available services include: Enrollment assistance for VA health benefits VA service connection and pension claims support On-site VHA medical services for enrolled Veterans…",
+      "url": "https://discover.va.gov/events/veteran-services-event-bouse-vfw/"
     },
     {
       "id": "va-gov-92547-2026-11-03",
@@ -3754,6 +3395,18 @@
       "lat": 37.4,
       "lng": -122.17,
       "url": "https://www.va.gov/palo-alto-health-care/events/80928"
+    },
+    {
+      "id": "va-gov-92647-2026-11-04",
+      "title": "Orlando VA Invites Veterans to Experience Traditional Healing and Wellness at Warrior Wellness Event Nov. 4",
+      "date": "2026-11-04",
+      "time": "10:00 AM – 2:00 PM ET",
+      "venue": "Lakeside at Viera Town Center",
+      "street": "2431 Town Center Ave",
+      "city": "Melbourne",
+      "state": "FL",
+      "summary": "Warrior Wellness Event",
+      "url": "https://www.va.gov/orlando-health-care/events/92647"
     },
     {
       "id": "va-gov-48451-2026-11-04",
@@ -4533,6 +4186,20 @@
       "url": "https://www.va.gov/northern-indiana-health-care/events/91731"
     },
     {
+      "id": "va-gov-92663-2026-11-06",
+      "title": "Caregiver & Family Resource Fair Huntsville Clinic",
+      "date": "2026-11-06",
+      "time": "10:00 AM – 1:00 PM CT",
+      "venue": "Huntsville VA Clinic",
+      "street": "500 Markaview Road, Northwest",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35805",
+      "lat": 34.71,
+      "lng": -86.62,
+      "url": "https://www.va.gov/birmingham-health-care/events/92663"
+    },
+    {
       "id": "va-gov-53791-2026-11-06",
       "title": "Disabled American Veterans (DAV) Chapter 84 Veterans Meeting Event",
       "date": "2026-11-06",
@@ -4679,6 +4346,36 @@
       "url": "https://www.va.gov/chicago-health-care/events/56659"
     },
     {
+      "id": "va-gov-92652-2026-11-06",
+      "title": "Veterans Day Benefits Fair and Homeless Veteran Stand Down",
+      "date": "2026-11-06",
+      "time": "10:00 AM – 1:00 PM CT",
+      "venue": "Harlingen VA Clinic",
+      "street": "2601 Veterans Drive",
+      "city": "Harlingen",
+      "state": "TX",
+      "zip": "78550",
+      "lat": 26.26,
+      "lng": -97.66,
+      "summary": "Get answers about your benefits and connect to support at the Harlingen Veterans Day and Benefits Fair and Stand Down. Nov. 6, 10 a.m. to 1 p.m.",
+      "url": "https://www.va.gov/texas-valley-health-care/events/92652"
+    },
+    {
+      "id": "va-gov-92653-2026-11-06",
+      "title": "Veterans Day Benefits Fair at Laredo VA Clinic",
+      "date": "2026-11-06",
+      "time": "11:00 AM – 1:00 PM CT",
+      "venue": "Laredo VA Clinic",
+      "street": "4602 North Bartlett Avenue",
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78041",
+      "lat": 27.56,
+      "lng": -99.46,
+      "summary": "Get answers about your benefits at the Laredo VA Veterans Day and Benefits Fair. Nov. 6, 11 a.m. to 1 p.m. Bring a friend, spouse or caregiver.",
+      "url": "https://www.va.gov/texas-valley-health-care/events/92653"
+    },
+    {
       "id": "va-gov-91477-2026-11-06",
       "title": "Veterans Parade",
       "date": "2026-11-06",
@@ -4820,27 +4517,18 @@
       "url": "https://discover.va.gov/events/in-their-honor-veterans-day-parade-colorado-springs-co/"
     },
     {
-      "id": "va-gov-92637-2026-11-07",
-      "title": "Lanai City Community Health Fair",
+      "id": "va-4353",
+      "title": "Lanai Community Health Fair",
       "date": "2026-11-07",
       "time": "10:00 AM – 2:00 PM HT",
-      "street": "Dole Park, 411 8th Street",
-      "city": "Lanai City",
-      "state": "HI",
-      "summary": "Enroll in VA Health Care, Flu Vaccines, Health Screenings, VA ID Cards",
-      "url": "https://www.va.gov/pacific-islands-health-care/events/92637"
-    },
-    {
-      "id": "va-gov-91620-2026-11-07",
-      "title": "Lanai Veterans Health Fair",
-      "date": "2026-11-07",
-      "time": "10:00 AM – 2:00 PM HT",
-      "venue": "Dole Park",
       "street": "411 8th Street",
       "city": "Lanai City",
       "state": "HI",
-      "summary": "Health Fair, Enrollment, PACT Act, Flu Vaccine, VA ID Card",
-      "url": "https://www.va.gov/pacific-islands-health-care/events/91620"
+      "zip": "96763",
+      "lat": 20.82532,
+      "lng": -156.91958,
+      "summary": "The VA Pacific Islands Health Care System will be at Dole Park in Lānaʻi City on November 7, 2026, ready to connect Veterans, their families, and the community with valuable health care resources and information.",
+      "url": "https://discover.va.gov/events/lanai-community-health-fair/"
     },
     {
       "id": "va-4308",
@@ -4918,6 +4606,20 @@
       "url": "https://discover.va.gov/events/salute-to-our-veterans/"
     },
     {
+      "id": "va-4350",
+      "title": "Tribal Resource & Claims Clinic",
+      "date": "2026-11-07",
+      "time": "10:00 AM – 6:00 PM PT",
+      "street": "34 Reservation Road",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "lat": 39.52452,
+      "lng": -119.78635,
+      "summary": "RSIC is a community partner with CEPC/VASNHCS and requested support in organizing and hosting a Tribal Resource and Claims Clinic for RSIC & the other 28 Federally recognized Tribes to share Suicide Prevention and more importantly Postvention support and services to help…",
+      "url": "https://discover.va.gov/events/tribal-resource-claims-clinic/"
+    },
+    {
       "id": "va-gov-91444-2026-11-07",
       "title": "TRICARE Weekend Flu Clinic",
       "date": "2026-11-07",
@@ -4958,6 +4660,18 @@
       "lat": 32.39,
       "lng": -85.68,
       "url": "https://www.va.gov/central-alabama-health-care/events/92206"
+    },
+    {
+      "id": "va-gov-92604-2026-11-08",
+      "title": "Veterans Parade in West Chester",
+      "date": "2026-11-08",
+      "time": "2:00 PM – 3:00 PM ET",
+      "venue": "Historic Chester County Courthouse",
+      "street": "2 N High Street",
+      "city": "West Chester",
+      "state": "PA",
+      "summary": "Join us in celebrating the Veterans in our community on a Sunday afternoon.",
+      "url": "https://www.va.gov/coatesville-health-care/events/92604"
     },
     {
       "id": "va-gov-87640-2026-11-08",
@@ -5117,6 +4831,21 @@
       "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
     },
     {
+      "id": "va-gov-76222-2026-11-09",
+      "title": "Legal Clinic to assist Veterans with civil legal issues and questions",
+      "date": "2026-11-09",
+      "time": "8:30 AM – 10:30 AM ET",
+      "venue": "Dayton VA Medical Center, Building 409, 1st Floor (Homeless Programs Office)",
+      "street": "4100 West Third Street",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45428",
+      "lat": 39.74,
+      "lng": -84.26,
+      "summary": "The University of Dayton, School of Law, will provide a legal clinic to assist Veterans with civil legal issues and questions. Walk-ins are welcome on a first come, first served basis.",
+      "url": "https://www.va.gov/dayton-health-care/events/76222"
+    },
+    {
       "id": "va-gov-91926-2026-11-09",
       "title": "Walk-In Flu Shots Available During Regular Business Hours",
       "date": "2026-11-09",
@@ -5145,15 +4874,19 @@
       "url": "https://www.va.gov/salisbury-health-care/events/92299"
     },
     {
-      "id": "va-gov-92487-2026-11-09",
+      "id": "va-4349",
       "title": "Waukesha County Veterans Job and Resource Fair",
       "date": "2026-11-09",
       "time": "11:00 AM – 2:00 PM CT",
-      "venue": "Ingleside Hotel Lake Country Ballroom",
+      "venue": "Ingleside Hotel",
       "street": "2810 Golf Road",
       "city": "Pewaukee",
       "state": "WI",
-      "url": "https://www.va.gov/milwaukee-health-care/events/92487"
+      "zip": "53072",
+      "lat": 43.04818,
+      "lng": -88.27599,
+      "summary": "The Wisconsin Department of Workforce Development is holding a Veteran job and resource fair at the Ingleside Hotel in Pewaukee. They requested that the Oconomowoc VA Outpatient Clinic have a booth/presence at the event to showcase other resources that are available to Veterans…",
+      "url": "https://discover.va.gov/events/waukesha-county-veterans-job-and-resource-fair/"
     },
     {
       "id": "va-gov-85230-2026-11-09",
@@ -5535,6 +5268,21 @@
       "url": "https://discover.va.gov/events/lunch-and-learn-for-senior-veterans/"
     },
     {
+      "id": "va-gov-92607-2026-11-10",
+      "title": "Operation Greenlight Coffee and Donuts",
+      "date": "2026-11-10",
+      "time": "9:00 AM – 11:00 AM ET",
+      "venue": "Coatesville VA Medical Center",
+      "street": "1400 Black Horse Hill Road",
+      "city": "Coatesville",
+      "state": "PA",
+      "zip": "19320",
+      "lat": 39.96,
+      "lng": -75.83,
+      "summary": "Show the Veterans in your neighborhood you support them.",
+      "url": "https://www.va.gov/coatesville-health-care/events/92607"
+    },
+    {
       "id": "va-gov-92268-2026-11-10",
       "title": "Sidewalk Chalk - Veterans Day 2026",
       "date": "2026-11-10",
@@ -5618,6 +5366,36 @@
       "lng": -81.60287,
       "summary": "Join us for Veterans After Hours: Coffee, Camaraderie & Community, a relaxed evening designed to bring veterans, service members, and military families together for connection and conversation. Enjoy coffee and light refreshments, meet others in the local military and veteran…",
       "url": "https://discover.va.gov/events/veterans-after-hours-coffee-camaraderie-community/"
+    },
+    {
+      "id": "va-gov-92651-2026-11-10",
+      "title": "Veterans Day Benefits Fair at Corpus Christi West Point VA",
+      "date": "2026-11-10",
+      "time": "10:30 AM – 1:00 PM CT",
+      "venue": "Corpus Christi West Point VA Clinic",
+      "street": "925 South Padre Island Drive",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78416",
+      "lat": 27.75,
+      "lng": -97.44,
+      "summary": "Get answers about your benefits at the Corpus Christi West Point VA Veterans Day and Benefits Fair. Nov. 10, 10:30 a.m. to 1 p.m. Bring a friend or caregiver.",
+      "url": "https://www.va.gov/texas-valley-health-care/events/92651"
+    },
+    {
+      "id": "va-gov-92650-2026-11-10",
+      "title": "Veterans Day Benefits Fair at McAllen VA Clinic",
+      "date": "2026-11-10",
+      "time": "10:00 AM – 1:00 PM CT",
+      "venue": "McAllen VA Clinic",
+      "street": "901 East Hackberry Avenue",
+      "city": "McAllen",
+      "state": "TX",
+      "zip": "78501",
+      "lat": 26.22,
+      "lng": -98.24,
+      "summary": "Get answers about your benefits at the McAllen VA Veterans Day and Benefits Fair. Nov. 10, 10 a.m. to 1 p.m. Bring a friend, spouse or caregiver.",
+      "url": "https://www.va.gov/texas-valley-health-care/events/92650"
     },
     {
       "id": "va-gov-92218-2026-11-10",
@@ -5918,6 +5696,18 @@
       "url": "https://www.va.gov/palo-alto-health-care/events/80764"
     },
     {
+      "id": "va-gov-92608-2026-11-11",
+      "title": "Salute I Wreath Laying Event",
+      "date": "2026-11-11",
+      "time": "10:45 AM – 11:15 AM ET",
+      "venue": "Veterans (Gateway) Park",
+      "street": "1st Ave and Lincoln Highway",
+      "city": "Coatesville",
+      "state": "PA",
+      "summary": "Join us in Coatesville for a wreath laying ceremony.",
+      "url": "https://www.va.gov/coatesville-health-care/events/92608"
+    },
+    {
       "id": "va-gov-90871-2026-11-11",
       "title": "Veterans Day",
       "date": "2026-11-11",
@@ -5944,6 +5734,20 @@
       "lat": 33.78,
       "lng": -118.12,
       "url": "https://www.va.gov/long-beach-health-care/events/91290"
+    },
+    {
+      "id": "va-gov-92576-2026-11-11",
+      "title": "Veterans Day Ceremony",
+      "date": "2026-11-11",
+      "time": "11:00 AM – 12:30 PM ET",
+      "venue": "Charles George Department of Veterans Affairs Medical Center, Stage between the medical center and the Community Living Center",
+      "street": "1100 Tunnel Road",
+      "city": "Asheville",
+      "state": "NC",
+      "zip": "28805",
+      "lat": 35.61,
+      "lng": -82.48,
+      "url": "https://www.va.gov/asheville-health-care/events/92576"
     },
     {
       "id": "va-gov-92086-2026-11-11",
@@ -6072,6 +5876,36 @@
       "lng": -79.02941,
       "summary": "Duty, Honor, Community: Veterans Appreciation and Resource Summit Honoring Past Service, Supporting Future Strength",
       "url": "https://discover.va.gov/events/duty-honor-community-veterans-appreciation-and-resource-summit/"
+    },
+    {
+      "id": "va-gov-92656-2026-11-12",
+      "title": "Food Distribution at Laredo VA Clinic",
+      "date": "2026-11-12",
+      "time": "9:00 AM – 11:00 AM CT",
+      "venue": "Laredo VA Clinic",
+      "street": "4602 North Bartlett Avenue",
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78041",
+      "lat": 27.56,
+      "lng": -99.46,
+      "summary": "Bring a valid Veteran ID to the Nov. 12 food distribution at the Laredo Outpatient Clinic, with South Texas Food Bank. Stay in your car. Supplies are limited.",
+      "url": "https://www.va.gov/texas-valley-health-care/events/92656"
+    },
+    {
+      "id": "va-gov-92655-2026-11-12",
+      "title": "Food Distribution at McAllen VA Clinic",
+      "date": "2026-11-12",
+      "time": "9:00 AM – 11:00 AM CT",
+      "venue": "McAllen VA Clinic",
+      "street": "901 East Hackberry Avenue",
+      "city": "McAllen",
+      "state": "TX",
+      "zip": "78501",
+      "lat": 26.22,
+      "lng": -98.24,
+      "summary": "Bring a valid Veteran ID to the Nov. 12 food distribution at McAllen VA Clinic, with Food Bank of Rio Grande Valley. Stay in your car. Supplies are limited.",
+      "url": "https://www.va.gov/texas-valley-health-care/events/92655"
     },
     {
       "id": "va-gov-91829-2026-11-12",
@@ -6230,6 +6064,20 @@
       "lng": -111.89,
       "summary": "Drive Out Hunger",
       "url": "https://www.va.gov/salt-lake-city-health-care/events/92494"
+    },
+    {
+      "id": "va-gov-92645-2026-11-13",
+      "title": "Augusta, GA Vets - Exclusive Resource Event - Fri, Nov 13, 2026",
+      "date": "2026-11-13",
+      "time": "9:00 AM – 2:00 PM ET",
+      "venue": "Augusta VA Medical Center-Uptown",
+      "street": "One Freedom Way",
+      "city": "Augusta",
+      "state": "GA",
+      "zip": "30904",
+      "lat": 33.48,
+      "lng": -82.01,
+      "url": "https://www.va.gov/augusta-health-care/events/92645"
     },
     {
       "id": "va-4339",
@@ -6440,6 +6288,18 @@
       "url": "https://www.va.gov/chicago-health-care/events/56659"
     },
     {
+      "id": "va-gov-92676-2026-11-13",
+      "title": "Veterans Day Resource Fair",
+      "date": "2026-11-13",
+      "time": "12:00 PM – 3:00 PM ET",
+      "venue": "UPMC Neighborhood Center",
+      "street": "803 East Ave",
+      "city": "Erie",
+      "state": "PA",
+      "summary": "Serving those who served.",
+      "url": "https://www.va.gov/erie-health-care/events/92676"
+    },
+    {
       "id": "va-gov-86286-2026-11-13",
       "title": "Veterans Orientation | Cheyenne VA Medical Center",
       "date": "2026-11-13",
@@ -6482,6 +6342,18 @@
       "lng": -87.84,
       "summary": "Diabetes Awareness",
       "url": "https://www.va.gov/hines-health-care/events/92609"
+    },
+    {
+      "id": "va-gov-92677-2026-11-14",
+      "title": "17th Gathering of American Indian Veterans",
+      "date": "2026-11-14",
+      "time": "8:00 AM – 3:00 PM MT",
+      "venue": "Casino of the Sun, Sunset Room",
+      "street": "7406 S. Camino de Oeste",
+      "city": "Tucson",
+      "state": "AZ",
+      "summary": "Join SAVAHCS and community partners for the 17th Gathering of American Indian Veterans on November 14, 2026. Connect with Veteran resources, benefits assistance, health screenings, PACT Act information, and a special Warrior Honoring Ceremony celebrating those who have served.",
+      "url": "https://www.va.gov/southern-arizona-health-care/events/92677"
     },
     {
       "id": "va-gov-92239-2026-11-14",
@@ -6961,6 +6833,20 @@
       "url": "https://www.va.gov/minneapolis-health-care/events/77228"
     },
     {
+      "id": "va-gov-92657-2026-11-17",
+      "title": "Program of General Caregiver Support Services (PGCSS) National Family Caregiver Month",
+      "date": "2026-11-17",
+      "time": "10:00 AM – 3:00 PM PT",
+      "venue": "Tibor Rubin VA Medical Center, Stars and Stripes Plaza",
+      "street": "5901 East Seventh Street",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90822",
+      "lat": 33.78,
+      "lng": -118.12,
+      "url": "https://www.va.gov/long-beach-health-care/events/92657"
+    },
+    {
       "id": "va-gov-52583-2026-11-17",
       "title": "Tuesday Yoga Class Schedule",
       "date": "2026-11-17",
@@ -7015,6 +6901,18 @@
       "lat": 39.34,
       "lng": -74.56,
       "url": "https://www.va.gov/wilmington-health-care/events/90901"
+    },
+    {
+      "id": "va-gov-92664-2026-11-17",
+      "title": "Veteran Services Event (Parker)",
+      "date": "2026-11-17",
+      "time": "9:00 AM – 3:00 PM MT",
+      "venue": "Regional Center for Border Health",
+      "street": "601 W. Riverside Dr",
+      "city": "Parker",
+      "state": "AZ",
+      "summary": "Veteran services event taking place at the Regional Center for Border Health in Parker, AZ, on November 17, 2026.",
+      "url": "https://www.va.gov/northern-arizona-health-care/events/92664"
     },
     {
       "id": "va-gov-91926-2026-11-17",
@@ -7087,6 +6985,21 @@
       "url": "https://www.va.gov/palo-alto-health-care/events/84177"
     },
     {
+      "id": "va-4354",
+      "title": "Milwaukee VA Caregiver Support Union Grove Clinic Resource Fair",
+      "date": "2026-11-18",
+      "time": "10:00 AM – 12:00 PM CT",
+      "venue": "Union Grove VA Clinic",
+      "street": "21425 Spring Street",
+      "city": "Union Grove",
+      "state": "WI",
+      "zip": "53182",
+      "lat": 42.69649,
+      "lng": -88.08049,
+      "summary": "The Milwaukee VA Caregiver Support Program will host a resource fair at the Union Grove VA Outpatient Clinic on Wednesday, Nov. 18, 2026 from 1000-1200. The resource fair will feature information on: -VA Caregiver Support Program -Advance Directives -Aging and Disability…",
+      "url": "https://discover.va.gov/events/milwaukee-va-caregiver-support-union-grove-clinic-resource-fair/"
+    },
+    {
       "id": "va-gov-80764-2026-11-18",
       "title": "Mobile medical outreach for Veterans - Santa Cruz",
       "date": "2026-11-18",
@@ -7154,6 +7067,18 @@
       "lat": 40.76,
       "lng": -86.06,
       "url": "https://www.va.gov/northern-indiana-health-care/events/90528"
+    },
+    {
+      "id": "va-gov-92666-2026-11-18",
+      "title": "Veteran Services Event (Quartzsite VFW)",
+      "date": "2026-11-18",
+      "time": "9:00 AM – 3:00 PM MT",
+      "venue": "VFW Post 769",
+      "street": "305 N Central Blvd",
+      "city": "Quartzsite",
+      "state": "AZ",
+      "summary": "Veteran services event taking place at VFW Post 769 in Quartzsite, AZ, on November 18, 2026.",
+      "url": "https://www.va.gov/northern-arizona-health-care/events/92666"
     },
     {
       "id": "va-gov-83102-2026-11-18",
@@ -7284,6 +7209,21 @@
       "lng": -84.46,
       "summary": "Cancer Seminar",
       "url": "https://www.va.gov/lexington-health-care/events/90483"
+    },
+    {
+      "id": "va-gov-92646-2026-11-19",
+      "title": "Dayton VA Medical Center drive thru turkey giveaway for Veterans",
+      "date": "2026-11-19",
+      "time": "11:00 AM – 12:00 PM ET",
+      "venue": "Dayton VA Medical Center, South Gettysburg Avenue entrance",
+      "street": "4100 West Third Street",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45428",
+      "lat": 39.74,
+      "lng": -84.26,
+      "summary": "On November 19, 2026 at 11:00 a.m. the Dayton VA Medical Center will provide turkeys for Veterans in need. It will be a drive thru. Turkeys will be distributed on a first come, first served basis until supplies last.",
+      "url": "https://www.va.gov/dayton-health-care/events/92646"
     },
     {
       "id": "va-gov-64140-2026-11-19",
@@ -7443,6 +7383,20 @@
       "lng": -87.48,
       "summary": "TVAMC Tai Chi Veteran exercise",
       "url": "https://www.va.gov/tuscaloosa-health-care/events/48521"
+    },
+    {
+      "id": "va-gov-71918-2026-11-19",
+      "title": "Taking Charge of My Life and Health (Main Hospital and VA Video Connect)",
+      "date": "2026-11-19",
+      "time": "1:00 PM – 2:30 PM ET",
+      "venue": "Cincinnati VA Medical Center",
+      "street": "3200 Vine Street",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45220",
+      "lat": 39.15,
+      "lng": -84.52,
+      "url": "https://www.va.gov/cincinnati-health-care/events/71918"
     },
     {
       "id": "va-gov-52601-2026-11-19",
@@ -8729,6 +8683,20 @@
       "url": "https://www.va.gov/wilmington-health-care/events/90907"
     },
     {
+      "id": "va-4351",
+      "title": "Bessemer Veteran Resource Fair and Claims Clinic",
+      "date": "2026-12-02",
+      "time": "10:00 AM – 2:00 PM CT",
+      "street": "2337 Bessemer Road",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35208",
+      "lat": 33.50025,
+      "lng": -86.87132,
+      "summary": "Variety of Veteran resources including health care, educational and compensation/pension benefits.",
+      "url": "https://discover.va.gov/events/bessemer-veteran-resource-fair-and-claims-clinic/"
+    },
+    {
       "id": "va-gov-85133-2026-12-02",
       "title": "Birmingham VA East Clinic Stroke Support Group",
       "date": "2026-12-02",
@@ -8936,6 +8904,20 @@
       "url": "https://www.va.gov/tuscaloosa-health-care/events/48521"
     },
     {
+      "id": "va-gov-71918-2026-12-03",
+      "title": "Taking Charge of My Life and Health (Main Hospital and VA Video Connect)",
+      "date": "2026-12-03",
+      "time": "1:00 PM – 2:30 PM ET",
+      "venue": "Cincinnati VA Medical Center",
+      "street": "3200 Vine Street",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45220",
+      "lat": 39.15,
+      "lng": -84.52,
+      "url": "https://www.va.gov/cincinnati-health-care/events/71918"
+    },
+    {
       "id": "va-gov-52601-2026-12-03",
       "title": "Thursday Yoga Class Schedule",
       "date": "2026-12-03",
@@ -9097,6 +9079,17 @@
       "url": "https://www.va.gov/chicago-health-care/events/56659"
     },
     {
+      "id": "va-gov-92662-2026-12-05",
+      "title": "PACT Act in Swansea: Connect With VA Health Care and Benefits",
+      "date": "2026-12-05",
+      "time": "10:00 AM – 1:00 PM ET",
+      "venue": "American Legion Post 33",
+      "street": "73 Ocean Grove Ave",
+      "city": "Swansea",
+      "state": "MA",
+      "url": "https://www.va.gov/providence-health-care/events/92662"
+    },
+    {
       "id": "va-gov-87640-2026-12-06",
       "title": "Weekly Chapel Service",
       "date": "2026-12-06",
@@ -9151,6 +9144,21 @@
       "lng": -94.04,
       "summary": "In-person Yoga - no experience needed",
       "url": "https://www.va.gov/fayetteville-arkansas-health-care/events/88497"
+    },
+    {
+      "id": "va-gov-77774-2026-12-07",
+      "title": "VA Healthcare Orientation (in-person & virtual)",
+      "date": "2026-12-07",
+      "time": "1:00 PM – 3:00 PM ET",
+      "venue": "Cincinnati VA Medical Center, A-820",
+      "street": "3200 Vine Street",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45220",
+      "lat": 39.15,
+      "lng": -84.52,
+      "summary": "Orientation, Cincinnati VA, Veterans, Whole Health",
+      "url": "https://www.va.gov/cincinnati-health-care/events/77774"
     },
     {
       "id": "va-gov-85230-2026-12-07",
@@ -9556,6 +9564,20 @@
       "lng": -87.48,
       "summary": "Veteran yoga class",
       "url": "https://www.va.gov/tuscaloosa-health-care/events/52601"
+    },
+    {
+      "id": "va-gov-92669-2026-12-10",
+      "title": "Veteran Town Hall",
+      "date": "2026-12-10",
+      "time": "2:00 PM – 3:00 PM ET",
+      "venue": "Atlanta VA Clinic",
+      "street": "250 North Arcadia Avenue",
+      "city": "Decatur",
+      "state": "GA",
+      "zip": "30030",
+      "lat": 33.77,
+      "lng": -84.29,
+      "url": "https://www.va.gov/atlanta-health-care/events/92669"
     },
     {
       "id": "va-gov-88827-2026-12-11",
@@ -10782,6 +10804,21 @@
       "url": "https://www.va.gov/chicago-health-care/events/56659"
     },
     {
+      "id": "va-gov-87640-2026-12-27",
+      "title": "Weekly Chapel Service",
+      "date": "2026-12-27",
+      "time": "10:15 AM – 11:15 AM CT",
+      "venue": "G.V. (Sonny) Montgomery Department of Veterans Affairs Medical Center, Chapel",
+      "street": "1500 East Woodrow Wilson Avenue",
+      "city": "Jackson",
+      "state": "MS",
+      "zip": "39216",
+      "lat": 32.34,
+      "lng": -90.16,
+      "summary": "Join us every Sunday at 10:15 AM in the Chapel for an uplifting service offering hope, encouragement, and inspiration to begin your week with peace.",
+      "url": "https://www.va.gov/jackson-health-care/events/87640"
+    },
+    {
       "id": "va-4296",
       "title": "VA Providence VetConnect",
       "date": "2027-01-20",
@@ -10872,7 +10909,7 @@
       "url": "https://discover.va.gov/events/va-providence-summer-vetconnect/"
     }
   ],
-  "vaEventsUpdatedAt": "2026-10-27T04:09:42.239Z",
+  "vaEventsUpdatedAt": "2026-10-28T04:02:13.760Z",
   "vaEventsSource": "https://discover.va.gov/events/wp-json/wp/v2/events",
   "vaEventsSources": [
     "https://discover.va.gov/events/wp-json/wp/v2/events",
